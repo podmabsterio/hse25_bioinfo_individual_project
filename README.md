@@ -2,16 +2,16 @@
 
 ## Данные 
 
-Все данные с которыми была произведена работа находятся в папке ![data](data/)
+Все данные с которыми была произведена работа находятся в папке [data](data/)
 
-Геном взять с сайта WarmBase, ссылка на геном: ![click](https://parasite.wormbase.org/Caenorhabditis_remanei_prjna53967/Info/Index/#:~:text=Assembly%20C_remanei,Source%20WormBase%20Annotation%20Version%20WS290)
+Геном взять с сайта WarmBase, ссылка на геном: [click](https://parasite.wormbase.org/Caenorhabditis_remanei_prjna53967/Info/Index/#:~:text=Assembly%20C_remanei,Source%20WormBase%20Annotation%20Version%20WS290)
 
 ## Код
 
 Код разбит на два ноутбука
 
-* Ноутбук для эпигенетической части: ![epigenetics_domains.ipynb](epigenetics_domains.ipynb)
-* Ноутбук для поиска вторичных структур ![secondary_structures.ipynb](secondary_structures.ipynb)
+* Ноутбук для эпигенетической части: [epigenetics_domains.ipynb](epigenetics_domains.ipynb)
+* Ноутбук для поиска вторичных структур [secondary_structures.ipynb](secondary_structures.ipynb)
 
 В обоих ноутбуках есть побродное описание выполнения всех шагов
 
@@ -20,7 +20,7 @@
 Caenorhabditis remanei — это свободноживущий нематод длиной около 1 мм, широко распространённый в умеренных регионах Северной Америки, Европы и Азии, питается бактериями в почве и компосте. В отличие от гермафродитных видов, C. remanei имеет раздельнополые взрослые особи (самцов и самок), что делает его ценным объектом для исследований ауткроссинга и популяционной генетики. Геном C. remanei собран на хромосомном уровне, его размер составляет 145.44 Мб и содержит 31457 генов, при этом он демонстрирует высокую схожесть с геномом C. elegans. Исследования показывают высокую генетическую вариативность в естественных популяциях, особенно на X-хромосоме, отражая большую эффективную численность популяции вида. В лаборатории разработаны многочисленные штаммы C. remanei, используемые в сравнительных геномных и эволюционных исследованиях.
 
 Источники 
-![pubmed](https://pubmed.ncbi.nlm.nih.gov/32111628/), ![pubmed]([https://pubmed.ncbi.nlm.nih.gov/32111628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3416005/)), ![wiki](https://en.wikipedia.org/wiki/Caenorhabditis_remanei)
+[pubmed](https://pubmed.ncbi.nlm.nih.gov/32111628/), [pubmed]([https://pubmed.ncbi.nlm.nih.gov/32111628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3416005/)), [wiki](https://en.wikipedia.org/wiki/Caenorhabditis_remanei)
 
 ## Результаты
 
@@ -38,9 +38,9 @@ Caenorhabditis remanei — это свободноживущий нематод 
 | WDR5     | WBGene00051832 | ['PF00400']            |      3105349 |    3109224 |
 | ZNF532   | WBGene00051333 | ['PF00096']            |       625835 |     628021 |
 
-Используется обозначение генов с WarmBase, при необходимости на WarmBase можно найти обычные названия генов, но мне было удобнее работать с этими, так как они были в данных. Алгоритм отбора данных представлен в ![epigenetics_domains.ipynb](epigenetics_domains.ipynb), а также там находится описание таблицы.
+Используется обозначение генов с WarmBase, при необходимости на WarmBase можно найти обычные названия генов, но мне было удобнее работать с этими, так как они были в данных. Алгоритм отбора данных представлен в [epigenetics_domains.ipynb](epigenetics_domains.ipynb), а также там находится описание таблицы.
 
-Полная таблица находится тут: ![chosen_family_matches.tsv](chosen_family_matches.tsv).
+Полная таблица находится тут: [chosen_family_matches.tsv](chosen_family_matches.tsv).
 
 #### Распределение структур по генам 
 |            |   Quadruplex count |   Quadruplex fraction |   Z-Hunt count |   Z-Hunt fraction |   ZDNABERT count |   ZDNABERT fraction |   background |
@@ -66,4 +66,4 @@ Caenorhabditis remanei — это свободноживущий нематод 
 
 Мы видим, что распределение здесь отличается от предыдущей таблицы, что логично, и говорит о не тривиальном взаимно расположении структур и участков генома.
 
-Данные для построения этих таблиц можно найти в директории ![tables](tables/)
+Данные для построения этих таблиц можно найти в директории [tables](tables/)
