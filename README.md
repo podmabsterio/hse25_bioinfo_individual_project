@@ -2,7 +2,7 @@
 
 ## Данные 
 
-Все данные с которыми была произведена работа находятся в папке [data](data/)
+Все данные с которыми была произведена работа должны находится в папке `data/` но она слишком тяжелая, чтобы загружать ее сюда, ее структура описана в ноутбуке [epigenetics_domains.ipynb](epigenetics_domains.ipynb)
 
 Геном взять с сайта WarmBase, ссылка на геном: [click](https://parasite.wormbase.org/Caenorhabditis_remanei_prjna53967/Info/Index/#:~:text=Assembly%20C_remanei,Source%20WormBase%20Annotation%20Version%20WS290)
 
