@@ -1,0 +1,5692 @@
+remanei_genomic.part_001.fa
+Crem_Contig5428
+  start     end
+     799     811
+Crem_Contig264
+  start     end
+   45143   45157
+   49027   49038
+   52721   52741
+   56072   56091
+   71366   71383
+   88540   88554
+  113016  113027
+  116643  116654
+  116670  116685
+  131093  131112
+Crem_Contig1995
+  start     end
+Crem_Contig4161
+  start     end
+Crem_Contig1532
+  start     end
+Crem_Contig5323
+  start     end
+    1642    1663
+    3545    3562
+Crem_Contig3126
+  start     end
+Crem_Contig1434
+  start     end
+Crem_Contig3408
+  start     end
+Crem_Contig70
+  start     end
+    5698    5708
+   10675   10689
+   23918   23936
+   34844   34861
+   39214   39227
+   44607   44620
+   64152   64165
+   70937   70953
+   73866   73884
+   73955   73976
+   75869   75880
+   86028   86044
+  160161  160176
+  184812  184825
+  191369  191379
+  228202  228217
+  229698  229715
+  231491  231503
+  237974  237985
+  242057  242069
+  242136  242151
+  242667  242685
+  270661  270673
+  287661  287677
+  290708  290721
+  302756  302770
+  316551  316563
+  323786  323801
+  330679  330694
+  333633  333649
+  335535  335553
+  342629  342642
+  350962  350980
+  366838  366852
+  382823  382834
+  405270  405283
+  407117  407131
+  414845  414858
+  420803  420820
+Crem_Contig3726
+  start     end
+Crem_Contig2209
+  start     end
+Crem_Contig1619
+  start     end
+Crem_Contig2121
+  start     end
+     336     346
+Crem_Contig2605
+  start     end
+     195     222
+Crem_Contig1898
+  start     end
+Crem_Contig816
+  start     end
+    3782    3800
+Crem_Contig5930
+  start     end
+Crem_Contig2247
+  start     end
+Crem_Contig6552
+  start     end
+Crem_Contig3469
+  start     end
+Crem_Contig1958
+  start     end
+Crem_Contig3197
+  start     end
+Crem_Contig729
+  start     end
+    3238    3249
+    5147    5167
+Crem_Contig1401
+  start     end
+    5622    5638
+    6212    6224
+Crem_Contig602
+  start     end
+    7530    7541
+   10042   10054
+Crem_Contig3289
+  start     end
+Crem_Contig3152
+  start     end
+Crem_Contig1943
+  start     end
+Crem_Contig3216
+  start     end
+       0      21
+     127     143
+     493     507
+     719     732
+     797     823
+     849     860
+     912     924
+     950     967
+    3047    3064
+    3334    3349
+    3365    3377
+    3672    3692
+    3700    3714
+    3834    3848
+Crem_Contig5476
+  start     end
+    3401    3415
+    3658    3673
+    3801    3815
+Crem_Contig337
+  start     end
+   15988   16002
+Crem_Contig836
+  start     end
+Crem_Contig3484
+  start     end
+Crem_Contig1318
+  start     end
+Crem_Contig6281
+  start     end
+     405     419
+Crem_Contig1539
+  start     end
+Crem_Contig731
+  start     end
+Crem_Contig1066
+  start     end
+Crem_Contig1280
+  start     end
+Crem_Contig60
+  start     end
+   10167   10182
+   21199   21223
+  114307  114323
+  130210  130224
+  133881  133905
+  142510  142521
+  145083  145096
+  145121  145133
+  181577  181588
+  182247  182261
+  187443  187454
+  196164  196181
+  199626  199639
+  204120  204142
+  218959  218976
+  239359  239371
+  250221  250234
+  260607  260621
+  277419  277432
+  281723  281733
+  318673  318687
+  318782  318796
+  335867  335878
+  340503  340521
+  340639  340658
+  340774  340793
+  340909  340928
+  341044  341062
+  341179  341198
+  345115  345128
+  346207  346217
+  360625  360642
+  366473  366485
+  371389  371403
+  371554  371570
+  374992  375003
+  378914  378931
+  405175  405191
+  407542  407554
+  409702  409722
+  409836  409855
+  410838  410860
+  410924  410937
+  411253  411276
+  413593  413608
+  414319  414336
+  416813  416829
+  417412  417431
+  417841  417857
+  417956  417972
+  418217  418240
+  421139  421155
+  421164  421182
+  422343  422358
+  422431  422450
+  430873  430888
+Crem_Contig2890
+  start     end
+Crem_Contig382
+  start     end
+   17348   17363
+   18463   18474
+Crem_Contig2530
+  start     end
+    2890    2902
+Crem_Contig1624
+  start     end
+Crem_Contig5111
+  start     end
+Crem_Contig4555
+  start     end
+Crem_Contig1962
+  start     end
+      82      96
+     126     142
+Crem_Contig3245
+  start     end
+Crem_Contig495
+  start     end
+Crem_Contig970
+  start     end
+Crem_Contig1047
+  start     end
+    1876    1891
+    4550    4563
+    6518    6534
+    8706    8717
+Crem_Contig2678
+  start     end
+Crem_Contig2264
+  start     end
+     258     277
+     279     294
+     780     796
+    1046    1061
+    1130    1146
+    1173    1190
+    1515    1525
+    1597    1613
+    1854    1872
+Crem_Contig1810
+  start     end
+Crem_Contig1874
+  start     end
+Crem_Contig587
+  start     end
+    2942    2955
+Crem_Contig0
+  start     end
+    8472    8490
+   19647   19665
+   51016   51032
+   64374   64386
+   65445   65459
+   69570   69587
+   84248   84261
+  132871  132887
+  225200  225213
+  359255  359269
+  398342  398357
+  407987  407998
+  410331  410348
+  412608  412624
+  413018  413036
+  422709  422726
+  452100  452117
+  458195  458206
+  537562  537576
+  553143  553157
+  577117  577129
+  582823  582836
+  584114  584133
+  594879  594896
+  595571  595593
+  596710  596724
+  598815  598831
+  612321  612332
+  624076  624086
+  625685  625703
+  650773  650785
+  650822  650835
+  687183  687199
+  688474  688492
+  716373  716388
+  716490  716507
+  717040  717054
+  737691  737711
+  738103  738116
+  740326  740338
+  742772  742786
+  744935  744946
+  780850  780862
+  789614  789628
+  791197  791211
+  798977  798991
+  820275  820285
+  850160  850173
+  870104  870116
+  889820  889834
+  934835  934854
+  943550  943568
+  955042  955054
+ 1058790 1058806
+ 1082178 1082190
+ 1082226 1082239
+ 1103596 1103610
+ 1109806 1109818
+ 1131190 1131206
+ 1149496 1149510
+ 1186895 1186913
+ 1206398 1206410
+ 1246531 1246547
+ 1247586 1247600
+ 1249195 1249209
+ 1249922 1249935
+ 1252273 1252295
+ 1252363 1252379
+ 1252568 1252581
+ 1252648 1252662
+ 1256569 1256579
+ 1256823 1256837
+ 1267771 1267782
+ 1284372 1284390
+ 1361189 1361203
+ 1389919 1389935
+ 1399382 1399397
+ 1532149 1532166
+ 1533288 1533302
+ 1551027 1551044
+ 1551119 1551139
+ 1566284 1566309
+ 1648905 1648923
+ 1671895 1671916
+ 1697488 1697502
+ 1731211 1731226
+ 1778994 1779008
+ 1779016 1779027
+ 1852239 1852263
+ 1852327 1852339
+ 1861509 1861520
+ 1873718 1873728
+ 1904696 1904713
+ 1943467 1943486
+ 1973812 1973831
+ 2012901 2012914
+ 2024139 2024153
+ 2024464 2024479
+ 2025739 2025753
+ 2039286 2039302
+ 2067669 2067682
+ 2069161 2069177
+ 2069245 2069262
+ 2072239 2072252
+ 2085849 2085863
+ 2090752 2090764
+ 2116914 2116927
+ 2141432 2141450
+ 2177468 2177482
+ 2178699 2178714
+ 2194555 2194568
+ 2194631 2194650
+ 2228350 2228365
+ 2244376 2244391
+ 2266890 2266903
+ 2266997 2267013
+ 2272164 2272178
+ 2272373 2272386
+ 2320922 2320937
+ 2370949 2370962
+ 2371761 2371778
+ 2371984 2371999
+ 2372773 2372783
+ 2409101 2409114
+ 2441745 2441756
+ 2453939 2453956
+ 2467446 2467458
+ 2545374 2545388
+ 2552034 2552050
+ 2566522 2566538
+ 2597823 2597839
+ 2620941 2620953
+ 2645572 2645585
+ 2655728 2655749
+ 2655932 2655946
+ 2664900 2664912
+ 2665181 2665192
+ 2674856 2674871
+ 2700271 2700286
+ 2735198 2735214
+ 2796709 2796721
+ 2948343 2948357
+ 2951401 2951412
+ 2977377 2977402
+ 2986733 2986745
+ 3000435 3000447
+ 3002343 3002358
+ 3011219 3011229
+ 3016323 3016340
+ 3055461 3055475
+ 3056273 3056285
+ 3056302 3056315
+ 3062291 3062304
+ 3063199 3063213
+ 3115036 3115049
+ 3156221 3156237
+ 3167095 3167111
+ 3209676 3209690
+ 3236874 3236890
+ 3247199 3247215
+ 3269161 3269175
+ 3271671 3271684
+ 3331626 3331642
+ 3371638 3371650
+ 3378553 3378567
+ 3380169 3380185
+ 3405077 3405091
+ 3408551 3408564
+ 3426020 3426035
+ 3456388 3456404
+ 3468205 3468216
+ 3503672 3503688
+ 3523966 3523977
+ 3524920 3524934
+ 3555472 3555491
+ 3560017 3560033
+ 3588294 3588305
+ 3589105 3589118
+ 3607188 3607204
+ 3623827 3623837
+ 3634019 3634032
+ 3646751 3646764
+ 3663930 3663947
+ 3693135 3693159
+ 3693191 3693210
+ 3709970 3709985
+ 3725432 3725445
+ 3727214 3727226
+ 3737513 3737534
+ 3743201 3743212
+ 3746145 3746161
+ 3764995 3765011
+ 3780193 3780205
+ 3802125 3802139
+ 3823369 3823383
+ 3846416 3846431
+ 3847402 3847412
+ 3901922 3901939
+ 3915594 3915610
+ 3943597 3943609
+ 3951447 3951467
+ 3959100 3959114
+ 3963416 3963430
+ 3985728 3985750
+ 4085091 4085105
+ 4085687 4085705
+ 4091157 4091169
+ 4091248 4091262
+ 4111504 4111532
+ 4111609 4111620
+ 4142333 4142346
+ 4153044 4153057
+ 4168329 4168342
+ 4187910 4187920
+ 4225295 4225309
+ 4230079 4230093
+ 4244166 4244181
+ 4265277 4265289
+ 4270812 4270826
+ 4283302 4283314
+ 4295946 4295963
+ 4296352 4296363
+ 4324673 4324684
+ 4354576 4354588
+ 4402876 4402886
+ 4409768 4409784
+ 4411421 4411434
+ 4434436 4434449
+ 4435767 4435782
+ 4439092 4439113
+ 4439932 4439943
+ 4441655 4441665
+ 4442291 4442310
+ 4449276 4449291
+Crem_Contig6179
+  start     end
+     183     195
+     436     456
+     503     519
+     548     570
+     916     926
+    1344    1360
+    1573    1585
+    1750    1767
+Crem_Contig6188
+  start     end
+Crem_Contig645
+  start     end
+Crem_Contig7233
+  start     end
+     970     986
+Crem_Contig752
+  start     end
+Crem_Contig7178
+  start     end
+Crem_Contig224
+  start     end
+    2886    2898
+   61667   61682
+  107632  107643
+Crem_Contig4794
+  start     end
+     181     209
+     908     919
+    1062    1078
+    1301    1311
+    3527    3561
+Crem_Contig957
+  start     end
+Crem_Contig5931
+  start     end
+Crem_Contig2035
+  start     end
+Crem_Contig1089
+  start     end
+Crem_Contig4265
+  start     end
+Crem_Contig315
+  start     end
+   13281   13294
+   32926   32940
+Crem_Contig1936
+  start     end
+Crem_Contig829
+  start     end
+Crem_Contig903
+  start     end
+Crem_Contig234
+  start     end
+    5771    5786
+   21913   21930
+   86067   86083
+Crem_Contig1033
+  start     end
+    8673    8685
+Crem_Contig2100
+  start     end
+Crem_Contig1912
+  start     end
+Crem_Contig4087
+  start     end
+Crem_Contig228
+  start     end
+   22513   22527
+   24490   24507
+   27687   27707
+   28382   28396
+   28432   28449
+   30814   30829
+   61278   61291
+   68025   68037
+Crem_Contig3046
+  start     end
+Crem_Contig2895
+  start     end
+     770     783
+Crem_Contig2054
+  start     end
+Crem_Contig1476
+  start     end
+      30      44
+    6410    6424
+    6559    6571
+Crem_Contig4101
+  start     end
+Crem_Contig3698
+  start     end
+      70     100
+     254     270
+     705     719
+     780     797
+     829     844
+    1012    1023
+    1647    1663
+    3860    3874
+    3934    3949
+    4163    4179
+Crem_Contig159
+  start     end
+    4003    4021
+    4927    4945
+   31528   31539
+   88676   88687
+  150026  150042
+  172593  172607
+  173895  173907
+  173957  173969
+  182394  182407
+  193608  193633
+Crem_Contig1922
+  start     end
+Crem_Contig303
+  start     end
+    5998    6008
+Crem_Contig1174
+  start     end
+Crem_Contig3439
+  start     end
+Crem_Contig7307
+  start     end
+Crem_Contig1777
+  start     end
+Crem_Contig2079
+  start     end
+    4024    4039
+Crem_Contig3817
+  start     end
+     582     593
+Crem_Contig4448
+  start     end
+Crem_Contig1375
+  start     end
+    7401    7415
+Crem_Contig2016
+  start     end
+Crem_Contig1687
+  start     end
+Crem_Contig6274
+  start     end
+Crem_Contig3363
+  start     end
+Crem_Contig956
+  start     end
+   11704   11720
+Crem_Contig463
+  start     end
+    2914    2925
+   10328   10339
+Crem_Contig2346
+  start     end
+Crem_Contig633
+  start     end
+Crem_Contig1149
+  start     end
+      73      89
+Crem_Contig249
+  start     end
+   74916   74933
+Crem_Contig5759
+  start     end
+     232     243
+Crem_Contig774
+  start     end
+    8619    8634
+Crem_Contig127
+  start     end
+    6631    6645
+   18611   18626
+   19017   19031
+   22732   22748
+   66278   66291
+   75010   75026
+   83852   83864
+   84890   84900
+   90809   90830
+   91157   91170
+  168797  168811
+  196031  196043
+Crem_Contig1659
+  start     end
+    3827    3841
+Crem_Contig2551
+  start     end
+Crem_Contig2995
+  start     end
+    2078    2092
+Crem_Contig1551
+  start     end
+Crem_Contig50
+  start     end
+    1131    1148
+    6187    6198
+   40504   40521
+   77315   77327
+  141769  141780
+  180909  180919
+  181161  181184
+  191585  191600
+  237686  237700
+  311260  311271
+  314258  314273
+  371723  371735
+  410859  410873
+  471263  471278
+  480965  480978
+  497558  497572
+  501008  501023
+  512264  512276
+  519007  519023
+  532633  532648
+Crem_Contig3700
+  start     end
+    3059    3082
+    3913    3928
+Crem_Contig1688
+  start     end
+    4403    4418
+Crem_Contig1670
+  start     end
+Crem_Contig1155
+  start     end
+Crem_Contig1742
+  start     end
+Crem_Contig2131
+  start     end
+       8      19
+Crem_Contig917
+  start     end
+Crem_Contig887
+  start     end
+    8960    8973
+Crem_Contig1569
+  start     end
+Crem_Contig640
+  start     end
+Crem_Contig886
+  start     end
+   14256   14270
+Crem_Contig712
+  start     end
+    2402    2418
+Crem_Contig402
+  start     end
+    3330    3346
+Crem_Contig4864
+  start     end
+Crem_Contig1593
+  start     end
+Crem_Contig1779
+  start     end
+Crem_Contig788
+  start     end
+    7798    7813
+Crem_Contig1467
+  start     end
+Crem_Contig5767
+  start     end
+Crem_Contig1445
+  start     end
+Crem_Contig1301
+  start     end
+Crem_Contig1075
+  start     end
+Crem_Contig1152
+  start     end
+    6064    6077
+Crem_Contig2735
+  start     end
+Crem_Contig4641
+  start     end
+Crem_Contig492
+  start     end
+     112     128
+     887     900
+    7529    7540
+Crem_Contig3304
+  start     end
+Crem_Contig4522
+  start     end
+Crem_Contig3968
+  start     end
+     575     590
+     694     709
+     715     733
+     746     766
+     888     909
+    1008    1023
+    1046    1065
+    1374    1405
+    3106    3122
+    3320    3350
+    3632    3652
+    3741    3755
+    3780    3792
+    3871    3886
+Crem_Contig1165
+  start     end
+    5495    5508
+Crem_Contig7331
+  start     end
+Crem_Contig940
+  start     end
+Crem_Contig910
+  start     end
+    5493    5503
+Crem_Contig5668
+  start     end
+Crem_Contig6280
+  start     end
+      33      47
+     152     164
+     261     274
+     317     333
+     825     836
+    1125    1144
+    1202    1215
+    1587    1602
+    1611    1627
+    1748    1765
+    1846    1866
+    2033    2051
+Crem_Contig1491
+  start     end
+Crem_Contig592
+  start     end
+Crem_Contig2960
+  start     end
+Crem_Contig347
+  start     end
+Crem_Contig3155
+  start     end
+Crem_Contig5028
+  start     end
+Crem_Contig2244
+  start     end
+Crem_Contig3512
+  start     end
+Crem_Contig501
+  start     end
+Crem_Contig489
+  start     end
+   14324   14337
+Crem_Contig3285
+  start     end
+    1399    1417
+Crem_Contig667
+  start     end
+Crem_Contig2756
+  start     end
+Crem_Contig1826
+  start     end
+Crem_Contig1333
+  start     end
+Crem_Contig2939
+  start     end
+Crem_Contig2251
+  start     end
+    4082    4096
+Crem_Contig3601
+  start     end
+Crem_Contig1510
+  start     end
+    1430    1446
+Crem_Contig64
+  start     end
+     609     623
+    6640    6654
+    7419    7433
+   27343   27359
+   33098   33109
+   40243   40260
+   48650   48663
+   48814   48830
+   50564   50578
+   82367   82387
+   84139   84156
+   84758   84774
+   94428   94440
+  106533  106548
+  106703  106717
+  106873  106886
+  118628  118642
+  120378  120397
+  121866  121879
+  122490  122506
+  140439  140451
+  147489  147510
+  150844  150863
+  185828  185840
+  189864  189879
+  189914  189927
+  210244  210258
+  270415  270432
+  274887  274902
+  277932  277949
+  294513  294526
+  295007  295023
+  303637  303651
+  309839  309853
+  322218  322229
+  322282  322299
+  322581  322594
+  323924  323939
+  326999  327014
+  327066  327082
+  342511  342525
+  343930  343944
+  365685  365703
+  369459  369475
+  395788  395819
+  425267  425286
+  430251  430268
+  431095  431106
+  436665  436683
+  442608  442624
+  469950  469962
+  475435  475449
+  481441  481456
+  494801  494813
+  497779  497790
+  501745  501762
+  502742  502754
+Crem_Contig4603
+  start     end
+Crem_Contig2336
+  start     end
+    6694    6706
+    6866    6877
+    6966    6983
+Crem_Contig1043
+  start     end
+    1750    1762
+    3088    3099
+Crem_Contig6132
+  start     end
+Crem_Contig2717
+  start     end
+    3683    3698
+Crem_Contig1831
+  start     end
+Crem_Contig2206
+  start     end
+Crem_Contig8755
+  start     end
+Crem_Contig841
+  start     end
+Crem_Contig1471
+  start     end
+Crem_Contig2523
+  start     end
+    3882    3895
+Crem_Contig5705
+  start     end
+Crem_Contig2064
+  start     end
+Crem_Contig2418
+  start     end
+Crem_Contig3250
+  start     end
+Crem_Contig3492
+  start     end
+Crem_Contig1438
+  start     end
+Crem_Contig114
+  start     end
+    5804    5819
+    6058    6076
+   15046   15062
+   15093   15110
+   16372   16390
+   22630   22649
+   23704   23719
+   44671   44684
+   99729   99743
+  135367  135380
+  138115  138130
+  194213  194226
+  195660  195673
+  224932  224949
+  268150  268162
+Crem_Contig421
+  start     end
+    3544    3559
+Crem_Contig4788
+  start     end
+Crem_Contig1191
+  start     end
+Crem_Contig1651
+  start     end
+Crem_Contig1422
+  start     end
+    6358    6370
+Crem_Contig3691
+  start     end
+Crem_Contig2589
+  start     end
+    1514    1530
+    1637    1657
+Crem_Contig1679
+  start     end
+Crem_Contig812
+  start     end
+Crem_Contig1870
+  start     end
+Crem_Contig2396
+  start     end
+Crem_Contig2850
+  start     end
+Crem_Contig7296
+  start     end
+Crem_Contig1991
+  start     end
+Crem_Contig272
+  start     end
+   12553   12570
+   13111   13132
+   13179   13196
+   14988   15001
+   15372   15387
+   15436   15455
+   15904   15916
+   15922   15935
+   15985   16003
+   20264   20278
+   41155   41178
+   46352   46367
+   66035   66045
+   68111   68122
+   69634   69649
+   73369   73383
+   75975   75985
+   76407   76421
+   76936   76949
+Crem_Contig3401
+  start     end
+Crem_Contig1277
+  start     end
+Crem_Contig825
+  start     end
+    5567    5588
+    9216    9234
+Crem_Contig975
+  start     end
+   12294   12306
+Crem_Contig3150
+  start     end
+     939     956
+Crem_Contig1357
+  start     end
+Crem_Contig5691
+  start     end
+Crem_Contig3412
+  start     end
+Crem_Contig556
+  start     end
+    8546    8560
+Crem_Contig6581
+  start     end
+Crem_Contig1296
+  start     end
+Crem_Contig3900
+  start     end
+Crem_Contig852
+  start     end
+Crem_Contig2608
+  start     end
+Crem_Contig425
+  start     end
+    9326    9338
+   12874   12885
+Crem_Contig40
+  start     end
+      85      97
+   34249   34262
+   67520   67535
+   67938   67955
+  122920  122933
+  130011  130025
+  132143  132158
+  132335  132348
+  132434  132448
+  194647  194661
+  203985  203997
+  222871  222881
+  242444  242459
+  249316  249326
+  252567  252580
+  253283  253299
+  308495  308507
+  322176  322194
+  348230  348245
+  348542  348554
+  381079  381093
+  423144  423157
+  424718  424734
+  497023  497036
+  505043  505058
+  505344  505360
+  505397  505413
+  505423  505439
+  506131  506148
+  530686  530697
+  534112  534126
+Crem_Contig5243
+  start     end
+Crem_Contig3630
+  start     end
+Crem_Contig1848
+  start     end
+Crem_Contig1041
+  start     end
+Crem_Contig179
+  start     end
+   10275   10289
+   38752   38767
+   50192   50207
+   50229   50253
+   52422   52436
+   52513   52527
+   52558   52574
+   56032   56048
+   79610   79624
+   86804   86820
+   90111   90125
+  133563  133579
+  147716  147731
+  157219  157234
+  158998  159012
+  159658  159673
+Crem_Contig5586
+  start     end
+Crem_Contig2779
+  start     end
+     283     295
+Crem_Contig2826
+  start     end
+Crem_Contig927
+  start     end
+    4198    4210
+    4643    4658
+Crem_Contig473
+  start     end
+   22545   22559
+   27499   27514
+Crem_Contig806
+  start     end
+Crem_Contig1322
+  start     end
+    9052    9067
+Crem_Contig313
+  start     end
+    7188    7204
+   39542   39553
+Crem_Contig1664
+  start     end
+Crem_Contig1129
+  start     end
+Crem_Contig896
+  start     end
+Crem_Contig923
+  start     end
+Crem_Contig898
+  start     end
+    5968    5982
+    8596    8611
+Crem_Contig3537
+  start     end
+    1034    1049
+Crem_Contig3143
+  start     end
+Crem_Contig219
+  start     end
+   12402   12418
+   12917   12933
+   15433   15450
+   21028   21044
+   25760   25774
+   67243   67257
+   67404   67417
+   73325   73336
+   75599   75613
+   75728   75744
+   78515   78527
+   78743   78761
+   81079   81091
+   86593   86608
+   91995   92006
+  103468  103482
+Crem_Contig1921
+  start     end
+      39      54
+     323     339
+     399     431
+     633     654
+     813     828
+     961     975
+    1087    1103
+    1246    1280
+    1414    1430
+    1513    1525
+    1598    1615
+    1853    1871
+    2316    2341
+    3333    3354
+    3848    3859
+    3895    3909
+Crem_Contig3384
+  start     end
+Crem_Contig431
+  start     end
+Crem_Contig2317
+  start     end
+Crem_Contig453
+  start     end
+Crem_Contig186
+  start     end
+     126     137
+    2980    2996
+   16263   16277
+   51442   51459
+   52867   52882
+   53051   53066
+   73525   73538
+   88056   88075
+  100640  100656
+  106949  106960
+  108534  108548
+  109659  109674
+  109823  109838
+  111190  111204
+  113980  113992
+  121583  121598
+  122942  122958
+  136523  136537
+  136575  136593
+  141705  141721
+Crem_Contig360
+  start     end
+Crem_Contig4179
+  start     end
+    3019    3032
+Crem_Contig1740
+  start     end
+Crem_Contig1330
+  start     end
+Crem_Contig962
+  start     end
+Crem_Contig1605
+  start     end
+     585     595
+    4601    4615
+    5661    5677
+Crem_Contig3727
+  start     end
+Crem_Contig573
+  start     end
+Crem_Contig163
+  start     end
+   18295   18311
+   47731   47750
+   72379   72391
+  146456  146472
+  157238  157252
+  171990  172004
+  177297  177312
+  248420  248435
+Crem_Contig938
+  start     end
+      75      97
+     596     612
+     742     760
+     893     913
+     920     939
+    1185    1222
+    1508    1522
+    1569    1583
+    1763    1778
+    2525    2539
+    2691    2713
+    2808    2822
+    2923    2937
+    2953    2969
+    3265    3278
+    5179    5198
+    5606    5619
+    5980    5993
+    7696    7709
+    7905    7920
+    8102    8116
+   36441   36456
+   36838   36852
+   36860   36876
+   36881   36898
+   36940   36955
+   37207   37225
+   37299   37313
+   39337   39349
+   39425   39437
+   39799   39811
+   40985   41002
+   41457   41470
+   41669   41689
+   41705   41731
+   41915   41932
+   42229   42248
+   42490   42506
+   42538   42558
+   42699   42714
+   42737   42748
+   42771   42785
+   43384   43400
+   43564   43583
+   43635   43663
+Crem_Contig660
+  start     end
+Crem_Contig1431
+  start     end
+Crem_Contig1394
+  start     end
+Crem_Contig2621
+  start     end
+Crem_Contig121
+  start     end
+   25881   25897
+   41374   41389
+   53824   53842
+   62614   62632
+   80359   80371
+   86341   86361
+   94114   94125
+  111327  111344
+  115391  115409
+  130760  130771
+  131602  131617
+  162068  162089
+  168202  168220
+  168488  168499
+  169324  169341
+  171638  171652
+  177357  177376
+  177403  177420
+  177496  177509
+  193340  193354
+  194002  194016
+  200783  200799
+  207327  207345
+  218513  218527
+  218577  218597
+  219339  219366
+  254920  254932
+  257255  257270
+Crem_Contig2864
+  start     end
+Crem_Contig86
+  start     end
+   36657   36671
+   40592   40606
+   69510   69524
+  121510  121527
+  128023  128039
+  145572  145591
+  156012  156022
+  167543  167556
+  168040  168058
+  176383  176396
+  185575  185595
+  191064  191079
+  195380  195393
+  280456  280469
+  294605  294617
+Crem_Contig2272
+  start     end
+     164     180
+     913     947
+     949     966
+    1059    1072
+    1097    1125
+    1870    1890
+    3179    3196
+    3345    3357
+    3495    3516
+    3554    3568
+    3926    3937
+    4057    4068
+    4131    4144
+    4231    4243
+    6464    6479
+    6649    6668
+    7038    7057
+Crem_Contig1361
+  start     end
+Crem_Contig2129
+  start     end
+      98     112
+     170     192
+     615     629
+     913     935
+    1251    1283
+    1290    1302
+    2234    2251
+    2332    2346
+    2394    2413
+    2971    2985
+    3948    3963
+    3993    4014
+    4402    4419
+    4471    4488
+Crem_Contig4074
+  start     end
+Crem_Contig1236
+  start     end
+Crem_Contig110
+  start     end
+   11765   11781
+   21555   21574
+   23541   23556
+   32218   32232
+   74295   74314
+   78452   78463
+   92832   92859
+   94489   94504
+  103809  103826
+  107008  107024
+  107144  107160
+  107279  107295
+  107415  107431
+  107550  107566
+  135069  135082
+  137268  137285
+  194084  194099
+  194311  194327
+  212152  212166
+  212905  212917
+  239132  239148
+  243962  243979
+  277976  277993
+Crem_Contig2534
+  start     end
+Crem_Contig2596
+  start     end
+    4488    4502
+Crem_Contig770
+  start     end
+Crem_Contig2303
+  start     end
+Crem_Contig5062
+  start     end
+Crem_Contig865
+  start     end
+Crem_Contig3074
+  start     end
+Crem_Contig321
+  start     end
+   18961   18972
+   19326   19344
+   28615   28626
+   33221   33236
+   38161   38175
+   42937   42952
+   50311   50324
+Crem_Contig1852
+  start     end
+Crem_Contig5309
+  start     end
+Crem_Contig2353
+  start     end
+     155     175
+    2487    2503
+Crem_Contig2840
+  start     end
+Crem_Contig1019
+  start     end
+Crem_Contig268
+  start     end
+    4012    4027
+   53837   53851
+   54836   54849
+   61333   61349
+Crem_Contig1610
+  start     end
+Crem_Contig398
+  start     end
+Crem_Contig142
+  start     end
+    3477    3492
+    9646    9662
+   12825   12839
+   12912   12924
+   20253   20263
+   32993   33010
+   48024   48034
+   49316   49331
+   78670   78688
+   86608   86630
+   86773   86787
+   88864   88881
+  112532  112547
+  114558  114571
+  114882  114893
+  117036  117048
+  126149  126165
+  128996  129017
+  133254  133276
+  137139  137160
+  137297  137313
+  143879  143890
+  145326  145341
+  147755  147783
+  148246  148263
+  160756  160768
+  160799  160817
+  161070  161089
+  173088  173109
+  176382  176397
+  195332  195346
+  204035  204050
+Crem_Contig9160
+  start     end
+Crem_Contig6054
+  start     end
+Crem_Contig588
+  start     end
+Crem_Contig250
+  start     end
+   16712   16725
+   18917   18932
+   22705   22717
+   22843   22860
+   23918   23932
+   27209   27221
+   43857   43872
+   48996   49010
+   49040   49053
+   50336   50352
+Crem_Contig1813
+  start     end
+Crem_Contig5609
+  start     end
+Crem_Contig2638
+  start     end
+     156     173
+Crem_Contig2199
+  start     end
+     999    1020
+Crem_Contig2810
+  start     end
+Crem_Contig2093
+  start     end
+Crem_Contig1385
+  start     end
+Crem_Contig1029
+  start     end
+     112     124
+     273     286
+    1211    1231
+    1582    1599
+    2625    2638
+    3962    3979
+    4250    4271
+    5003    5018
+    5728    5740
+    5756    5770
+    6308    6324
+    6513    6523
+    6936    6952
+    7265    7279
+    7348    7361
+    8287    8297
+   42756   42775
+   42958   42975
+   43343   43362
+   43558   43575
+   43767   43782
+   43869   43891
+   44008   44021
+   44924   44940
+   44971   45002
+   45031   45044
+   45276   45291
+Crem_Contig2691
+  start     end
+Crem_Contig4310
+  start     end
+      33      52
+     308     325
+     888     908
+    1268    1283
+    1292    1309
+    1374    1391
+    4048    4062
+    4252    4264
+    4383    4394
+Crem_Contig4097
+  start     end
+Crem_Contig2110
+  start     end
+    4024    4038
+Crem_Contig3424
+  start     end
+Crem_Contig968
+  start     end
+Crem_Contig1061
+  start     end
+     114     128
+     172     185
+     696     708
+     815     828
+     841     856
+    1495    1511
+    3613    3640
+    3706    3721
+   30865   30884
+   31802   31827
+   32345   32357
+   32439   32455
+   32489   32502
+   32537   32550
+   34189   34203
+   34738   34754
+   35003   35028
+   35276   35289
+   35491   35504
+   35890   35909
+   36121   36160
+   36731   36742
+   37050   37068
+   37319   37337
+   37842   37856
+   38535   38551
+   38593   38612
+   38764   38778
+Crem_Contig2590
+  start     end
+Crem_Contig2766
+  start     end
+Crem_Contig1387
+  start     end
+    3039    3052
+Crem_Contig697
+  start     end
+   36255   36269
+Crem_Contig2227
+  start     end
+Crem_Contig538
+  start     end
+Crem_Contig2134
+  start     end
+Crem_Contig2328
+  start     end
+Crem_Contig3012
+  start     end
+Crem_Contig2402
+  start     end
+     664     678
+    2276    2291
+Crem_Contig4343
+  start     end
+Crem_Contig188
+  start     end
+   24794   24811
+   25409   25425
+   27143   27158
+   30701   30714
+   61390   61411
+   71566   71581
+   95274   95289
+  146845  146856
+  160087  160099
+  166183  166198
+  183795  183809
+  186612  186628
+Crem_Contig394
+  start     end
+    3949    3964
+Crem_Contig1550
+  start     end
+Crem_Contig1475
+  start     end
+Crem_Contig1658
+  start     end
+Crem_Contig2340
+  start     end
+Crem_Contig191
+  start     end
+    8935    8949
+   12491   12502
+   12826   12840
+   14193   14213
+   15674   15689
+   16558   16579
+   32808   32823
+   35906   35918
+   41758   41773
+   42176   42189
+   46350   46365
+   46614   46629
+   47643   47654
+  142833  142848
+Crem_Contig2081
+  start     end
+Crem_Contig866
+  start     end
+    7078    7090
+Crem_Contig1941
+  start     end
+    4171    4189
+Crem_Contig885
+  start     end
+Crem_Contig3092
+  start     end
+Crem_Contig709
+  start     end
+Crem_Contig1666
+  start     end
+Crem_Contig2930
+  start     end
+Crem_Contig2284
+  start     end
+Crem_Contig1873
+  start     end
+Crem_Contig4160
+  start     end
+Crem_Contig158
+  start     end
+    7707    7725
+   34027   34042
+   82627   82644
+   82947   82961
+  118323  118342
+  126552  126569
+  131762  131780
+  135518  135538
+  147498  147511
+  157757  157775
+  159068  159083
+  159758  159768
+  161945  161958
+  172953  172964
+Crem_Contig2484
+  start     end
+Crem_Contig2377
+  start     end
+Crem_Contig2270
+  start     end
+      18      32
+Crem_Contig1782
+  start     end
+Crem_Contig753
+  start     end
+Crem_Contig2557
+  start     end
+     107     123
+     207     228
+     436     453
+     836     870
+     947     963
+    1029    1045
+    1130    1146
+    1390    1402
+    1507    1528
+    3194    3216
+    3479    3509
+    4072    4087
+    4164    4180
+    4360    4378
+    4386    4408
+    4443    4458
+    4558    4568
+    4628    4649
+Crem_Contig3884
+  start     end
+Crem_Contig5029
+  start     end
+      41      57
+     487     500
+     850     869
+    1273    1300
+    1443    1470
+    4035    4050
+    4200    4216
+Crem_Contig2531
+  start     end
+Crem_Contig827
+  start     end
+    4728    4741
+Crem_Contig900
+  start     end
+   15093   15108
+Crem_Contig409
+  start     end
+Crem_Contig1115
+  start     end
+Crem_Contig1433
+  start     end
+Crem_Contig577
+  start     end
+Crem_Contig2102
+  start     end
+Crem_Contig1774
+  start     end
+Crem_Contig4848
+  start     end
+Crem_Contig4718
+  start     end
+      51      68
+    1281    1296
+    2858    2870
+Crem_Contig3725
+  start     end
+    1374    1388
+    2538    2553
+Crem_Contig4086
+  start     end
+Crem_Contig2368
+  start     end
+Crem_Contig2120
+  start     end
+Crem_Contig3861
+  start     end
+Crem_Contig874
+  start     end
+    3877    3891
+Crem_Contig3326
+  start     end
+Crem_Contig484
+  start     end
+    1733    1751
+    3914    3928
+    5917    5934
+    8612    8626
+Crem_Contig401
+  start     end
+    1355    1368
+   10721   10735
+   11409   11422
+Crem_Contig1418
+  start     end
+    3198    3213
+    4876    4892
+Crem_Contig2073
+  start     end
+Crem_Contig2636
+  start     end
+Crem_Contig3564
+  start     end
+Crem_Contig285
+  start     end
+    6446    6459
+    9430    9446
+   19346   19360
+   31987   32004
+   33840   33850
+   47664   47680
+   48433   48447
+   49483   49498
+   49780   49797
+   53436   53449
+   61732   61742
+Crem_Contig2259
+  start     end
+Crem_Contig3288
+  start     end
+    2954    2971
+Crem_Contig2541
+  start     end
+Crem_Contig2347
+  start     end
+Crem_Contig9349
+  start     end
+Crem_Contig1482
+  start     end
+Crem_Contig987
+  start     end
+    4914    4926
+Crem_Contig1544
+  start     end
+Crem_Contig2920
+  start     end
+      70      90
+     774     790
+    2327    2340
+    2381    2407
+    2541    2555
+    2681    2698
+    2904    2920
+    2934    2950
+    3091    3116
+    3414    3431
+    4022    4038
+Crem_Contig1736
+  start     end
+    1388    1404
+Crem_Contig906
+  start     end
+Crem_Contig892
+  start     end
+    4422    4439
+Crem_Contig5781
+  start     end
+Crem_Contig3692
+  start     end
+    1114    1126
+    1147    1164
+Crem_Contig256
+  start     end
+Crem_Contig1399
+  start     end
+Crem_Contig2682
+  start     end
+Crem_Contig2243
+  start     end
+Crem_Contig7236
+  start     end
+Crem_Contig711
+  start     end
+Crem_Contig2561
+  start     end
+Crem_Contig7227
+  start     end
+Crem_Contig280
+  start     end
+    6819    6833
+   75764   75779
+Crem_Contig7097
+  start     end
+Crem_Contig1046
+  start     end
+Crem_Contig458
+  start     end
+   10081   10103
+   13438   13450
+   14628   14645
+   18113   18130
+Crem_Contig1625
+  start     end
+Crem_Contig2620
+  start     end
+     149     162
+    1407    1423
+Crem_Contig117
+  start     end
+    4847    4860
+   78806   78819
+   83369   83385
+   97845   97858
+  133361  133380
+  176592  176604
+  192602  192616
+  197565  197581
+  214800  214816
+  223616  223630
+  239305  239318
+  241934  241951
+  245321  245332
+  272757  272770
+  272979  273002
+  274480  274502
+  275658  275690
+  277122  277132
+  280506  280531
+  281399  281414
+  281430  281443
+  282291  282306
+Crem_Contig3922
+  start     end
+     557     571
+Crem_Contig2277
+  start     end
+     215     233
+    1483    1506
+    2156    2168
+    2662    2678
+Crem_Contig7314
+  start     end
+Crem_Contig1673
+  start     end
+Crem_Contig1446
+  start     end
+Crem_Contig2394
+  start     end
+Crem_Contig5539
+  start     end
+Crem_Contig3799
+  start     end
+Crem_Contig1680
+  start     end
+Crem_Contig4865
+  start     end
+Crem_Contig763
+  start     end
+Crem_Contig1223
+  start     end
+Crem_Contig1141
+  start     end
+Crem_Contig424
+  start     end
+    2159    2172
+    2845    2857
+    2893    2907
+Crem_Contig1167
+  start     end
+Crem_Contig2519
+  start     end
+Crem_Contig454
+  start     end
+    6003    6018
+    6896    6911
+    7717    7732
+Crem_Contig1255
+  start     end
+Crem_Contig1937
+  start     end
+    8641    8654
+Crem_Contig69
+  start     end
+   30822   30835
+   36752   36768
+   49204   49221
+   59905   59920
+   69483   69498
+   70552   70565
+  108195  108209
+  108285  108304
+  108331  108348
+  108752  108765
+  119693  119708
+  130229  130246
+  136923  136937
+  140357  140370
+  142160  142175
+  147020  147036
+  168538  168554
+  169047  169063
+  197437  197450
+  198172  198182
+  198230  198247
+  205360  205374
+  276041  276057
+  288044  288058
+  337446  337462
+  358267  358280
+  391544  391556
+Crem_Contig918
+  start     end
+Crem_Contig151
+  start     end
+    7021    7035
+   20301   20317
+   42466   42479
+   53591   53605
+   66480   66493
+   68757   68773
+   74977   74991
+   95228   95244
+  101527  101544
+  115129  115144
+  139285  139301
+  168721  168737
+  189161  189174
+  190302  190317
+  193918  193933
+Crem_Contig331
+  start     end
+   20867   20886
+Crem_Contig2880
+  start     end
+Crem_Contig1016
+  start     end
+Crem_Contig8557
+  start     end
+Crem_Contig196
+  start     end
+   39664   39680
+   39683   39697
+   39869   39881
+   66655   66667
+   74395   74409
+  114308  114321
+  114766  114797
+  145084  145100
+  165783  165797
+Crem_Contig1861
+  start     end
+Crem_Contig5743
+  start     end
+Crem_Contig194
+  start     end
+    2646    2659
+   19715   19728
+   23641   23657
+   24174   24188
+   59592   59609
+   63799   63815
+   65915   65933
+   69877   69888
+Crem_Contig1369
+  start     end
+Crem_Contig3201
+  start     end
+Crem_Contig6290
+  start     end
+Crem_Contig3795
+  start     end
+Crem_Contig1960
+  start     end
+Crem_Contig1206
+  start     end
+    2407    2419
+    7730    7746
+Crem_Contig4324
+  start     end
+Crem_Contig1085
+  start     end
+Crem_Contig5395
+  start     end
+Crem_Contig3409
+  start     end
+Crem_Contig1501
+  start     end
+Crem_Contig1409
+  start     end
+Crem_Contig1856
+  start     end
+    1125    1136
+    1372    1385
+    2921    2933
+Crem_Contig3746
+  start     end
+Crem_Contig1647
+  start     end
+Crem_Contig3735
+  start     end
+Crem_Contig6113
+  start     end
+Crem_Contig309
+  start     end
+    9486    9502
+   10308   10319
+   20366   20379
+   49596   49607
+   50228   50243
+   56226   56236
+   56949   56961
+   58400   58415
+   65457   65469
+   67617   67627
+Crem_Contig1778
+  start     end
+    5714    5731
+Crem_Contig4126
+  start     end
+Crem_Contig5589
+  start     end
+Crem_Contig2294
+  start     end
+Crem_Contig1056
+  start     end
+    6267    6281
+    7122    7135
+    7210    7225
+    8489    8501
+Crem_Contig464
+  start     end
+    7111    7122
+   11546   11557
+   11577   11594
+   14695   14708
+Crem_Contig4432
+  start     end
+Crem_Contig2784
+  start     end
+Crem_Contig747
+  start     end
+    8481    8495
+Crem_Contig2063
+  start     end
+Crem_Contig544
+  start     end
+Crem_Contig3070
+  start     end
+     645     677
+     788     806
+     960     974
+    1349    1368
+    3304    3318
+    4043    4057
+Crem_Contig3885
+  start     end
+Crem_Contig1992
+  start     end
+    1655    1670
+    2715    2730
+Crem_Contig275
+  start     end
+   10574   10588
+   35719   35734
+   36691   36707
+   39826   39843
+   42639   42657
+   73943   73958
+   78138   78154
+Crem_Contig4202
+  start     end
+     494     513
+Crem_Contig974
+  start     end
+Crem_Contig2741
+  start     end
+Crem_Contig2573
+  start     end
+Crem_Contig606
+  start     end
+Crem_Contig3028
+  start     end
+    4169    4181
+    5021    5032
+Crem_Contig2998
+  start     end
+     268     280
+Crem_Contig5387
+  start     end
+    1504    1515
+Crem_Contig2759
+  start     end
+Crem_Contig2746
+  start     end
+Crem_Contig2313
+  start     end
+Crem_Contig1321
+  start     end
+Crem_Contig555
+  start     end
+Crem_Contig718
+  start     end
+Crem_Contig2066
+  start     end
+Crem_Contig4248
+  start     end
+Crem_Contig1494
+  start     end
+Crem_Contig6975
+  start     end
+Crem_Contig1822
+  start     end
+Crem_Contig2360
+  start     end
+Crem_Contig1339
+  start     end
+Crem_Contig650
+  start     end
+Crem_Contig4829
+  start     end
+Crem_Contig4252
+  start     end
+Crem_Contig3617
+  start     end
+Crem_Contig1807
+  start     end
+Crem_Contig251
+  start     end
+   60528   60541
+   62195   62214
+   62605   62620
+   74735   74752
+Crem_Contig1303
+  start     end
+Crem_Contig1228
+  start     end
+Crem_Contig92
+  start     end
+   38730   38745
+   39696   39707
+  135730  135744
+  141648  141660
+  142543  142554
+  176645  176660
+  177559  177573
+  182005  182016
+  184114  184129
+  184180  184197
+  214058  214071
+  220719  220729
+  221441  221455
+  221577  221594
+Crem_Contig6018
+  start     end
+Crem_Contig1519
+  start     end
+Crem_Contig2458
+  start     end
+Crem_Contig1771
+  start     end
+    3501    3519
+    3541    3553
+    3561    3575
+Crem_Contig4178
+  start     end
+Crem_Contig3122
+  start     end
+Crem_Contig405
+  start     end
+   12619   12631
+   13273   13291
+Crem_Contig1220
+  start     end
+Crem_Contig4409
+  start     end
+Crem_Contig2177
+  start     end
+Crem_Contig983
+  start     end
+Crem_Contig666
+  start     end
+    2395    2407
+Crem_Contig8132
+  start     end
+     567     582
+     631     643
+Crem_Contig2437
+  start     end
+Crem_Contig3083
+  start     end
+Crem_Contig1069
+  start     end
+Crem_Contig2493
+  start     end
+Crem_Contig1630
+  start     end
+Crem_Contig65
+  start     end
+    7677    7695
+   87279   87295
+   99119   99134
+  254048  254068
+  259319  259336
+  266689  266702
+  283311  283325
+  283598  283613
+  441306  441317
+  475366  475379
+  488024  488036
+Crem_Contig624
+  start     end
+Crem_Contig2113
+  start     end
+Crem_Contig2953
+  start     end
+Crem_Contig1903
+  start     end
+Crem_Contig3465
+  start     end
+     132     142
+    2670    2686
+    3204    3222
+    3279    3290
+Crem_Contig3172
+  start     end
+      61      74
+     207     228
+    1085    1102
+    1124    1139
+    1233    1248
+    1285    1298
+    1949    1967
+    2039    2056
+    2605    2617
+Crem_Contig41
+  start     end
+   46610   46625
+   46640   46652
+   50185   50204
+   83852   83864
+   86594   86606
+   98263   98279
+  102265  102281
+  121717  121731
+  123492  123511
+  124089  124103
+  147668  147681
+  149069  149080
+  172242  172252
+  173476  173489
+  174525  174547
+  187300  187315
+  195549  195564
+  222230  222243
+  231550  231562
+  239224  239236
+  256481  256499
+  368371  368387
+  368513  368528
+  370380  370391
+  376839  376859
+  409976  409989
+  463503  463518
+  464720  464736
+  469830  469844
+  477430  477451
+  478250  478263
+  478319  478337
+  488113  488128
+  500208  500225
+  529275  529291
+  558395  558413
+  566971  566987
+  570500  570513
+  587403  587418
+  587530  587545
+  587657  587672
+  587778  587794
+  587906  587921
+  588033  588048
+  588155  588170
+  588282  588297
+  588408  588424
+  588536  588551
+  588663  588679
+  588785  588800
+  589089  589100
+  613583  613596
+  639932  639947
+  645996  646008
+  651243  651259
+  657099  657114
+  663227  663239
+  663648  663663
+  683203  683224
+  693395  693408
+  694732  694746
+  706836  706847
+Crem_Contig1901
+  start     end
+Crem_Contig1215
+  start     end
+Crem_Contig143
+  start     end
+     842     854
+    1401    1417
+    8777    8793
+   34585   34601
+   47278   47290
+   54199   54215
+   68687   68703
+   80470   80488
+   91891   91905
+   92734   92750
+   93608   93625
+   93660   93676
+   95607   95625
+   97821   97842
+  101215  101226
+  123248  123260
+  138884  138903
+  142045  142058
+  142512  142523
+  143582  143598
+  152353  152368
+  166614  166628
+  168057  168071
+  168656  168668
+  189236  189255
+  225089  225113
+  227171  227183
+  227986  227998
+  228106  228120
+  229233  229246
+  237953  237970
+Crem_Contig3054
+  start     end
+Crem_Contig3314
+  start     end
+Crem_Contig1678
+  start     end
+Crem_Contig4499
+  start     end
+     199     216
+     242     252
+     821     836
+    1076    1091
+    1166    1183
+    1282    1300
+    1738    1756
+    2055    2072
+    2617    2635
+    2640    2659
+    2677    2695
+Crem_Contig1827
+  start     end
+Crem_Contig6996
+  start     end
+Crem_Contig4819
+  start     end
+Crem_Contig4774
+  start     end
+Crem_Contig870
+  start     end
+Crem_Contig1999
+  start     end
+     488     501
+    1840    1852
+Crem_Contig3458
+  start     end
+Crem_Contig769
+  start     end
+Crem_Contig306
+  start     end
+    5776    5788
+    8322    8337
+   21819   21835
+   38154   38167
+   56689   56702
+   62733   62748
+Crem_Contig1030
+  start     end
+   10717   10734
+Crem_Contig269
+  start     end
+     169     180
+    9722    9734
+   20568   20579
+   20599   20614
+   34859   34875
+   54901   54917
+   56421   56437
+   59972   59985
+   60578   60590
+   74827   74844
+   91189   91208
+Crem_Contig1276
+  start     end
+    5371    5388
+Crem_Contig794
+  start     end
+    4799    4809
+Crem_Contig2579
+  start     end
+Crem_Contig5177
+  start     end
+Crem_Contig4024
+  start     end
+    2257    2269
+Crem_Contig1315
+  start     end
+Crem_Contig485
+  start     end
+     312     322
+    5961    5974
+Crem_Contig1437
+  start     end
+Crem_Contig715
+  start     end
+    2322    2333
+    4857    4870
+Crem_Contig5532
+  start     end
+Crem_Contig2382
+  start     end
+Crem_Contig2641
+  start     end
+Crem_Contig412
+  start     end
+Crem_Contig1173
+  start     end
+Crem_Contig105
+  start     end
+    8891    8905
+   31643   31655
+  148470  148484
+  199448  199459
+  208358  208371
+  218256  218267
+  236268  236278
+  258652  258670
+  258721  258736
+  261759  261772
+  261797  261811
+  263157  263170
+  263451  263470
+  263520  263533
+  263601  263616
+  264483  264503
+  266874  266887
+  284800  284818
+  286331  286344
+Crem_Contig3020
+  start     end
+Crem_Contig1493
+  start     end
+Crem_Contig1243
+  start     end
+    1494    1513
+    5484    5506
+Crem_Contig547
+  start     end
+Crem_Contig782
+  start     end
+Crem_Contig2632
+  start     end
+Crem_Contig2260
+  start     end
+Crem_Contig3425
+  start     end
+Crem_Contig1264
+  start     end
+Crem_Contig4734
+  start     end
+Crem_Contig2916
+  start     end
+Crem_Contig682
+  start     end
+    5799    5812
+    8337    8350
+    9698    9717
+   10257   10285
+Crem_Contig1308
+  start     end
+Crem_Contig670
+  start     end
+Crem_Contig2031
+  start     end
+     447     463
+     635     650
+    1213    1225
+Crem_Contig2964
+  start     end
+Crem_Contig354
+  start     end
+    1859    1874
+    7934    7947
+    8331    8343
+    9811    9826
+   15937   15951
+   32772   32787
+   42176   42186
+Crem_Contig1028
+  start     end
+Crem_Contig2090
+  start     end
+Crem_Contig113
+  start     end
+   28265   28275
+   50163   50180
+   57748   57763
+  113636  113647
+  137194  137205
+  137960  137974
+  162948  162969
+  163766  163779
+  163836  163853
+  179250  179265
+  186837  186853
+  213060  213077
+  246248  246260
+  278188  278209
+  278233  278251
+  278328  278342
+Crem_Contig1145
+  start     end
+Crem_Contig1566
+  start     end
+Crem_Contig1386
+  start     end
+    1969    1982
+    2196    2214
+    2346    2359
+    6232    6247
+Crem_Contig343
+  start     end
+    4572    4587
+   18578   18593
+   19429   19440
+   19516   19530
+Crem_Contig3550
+  start     end
+Crem_Contig5699
+  start     end
+     248     259
+     386     407
+     740     759
+    2433    2447
+    2589    2609
+    2950    2982
+    3033    3052
+Crem_Contig634
+  start     end
+   12243   12257
+Crem_Contig2304
+  start     end
+Crem_Contig2865
+  start     end
+     435     452
+     474     490
+     641     659
+     670     696
+     882     896
+     901     924
+     979     996
+    1750    1766
+    3184    3206
+    3539    3557
+    3700    3718
+    4025    4041
+    4045    4060
+    4285    4296
+Crem_Contig3596
+  start     end
+Crem_Contig4959
+  start     end
+Crem_Contig2076
+  start     end
+Crem_Contig172
+  start     end
+   23772   23787
+   79121   79133
+   92775   92792
+  109121  109138
+  125453  125469
+  126844  126856
+  131521  131538
+  134392  134403
+  143321  143338
+  145240  145259
+  155906  155919
+  161200  161211
+  161812  161825
+  161953  161964
+  162094  162105
+Crem_Contig286
+  start     end
+   28636   28650
+   31390   31404
+   31523   31539
+   31581   31596
+   31605   31620
+   32759   32776
+   32817   32834
+   39562   39575
+   42998   43010
+   44458   44470
+   44569   44583
+Crem_Contig1973
+  start     end
+Crem_Contig899
+  start     end
+Crem_Contig2324
+  start     end
+Crem_Contig2887
+  start     end
+Crem_Contig988
+  start     end
+Crem_Contig430
+  start     end
+   18409   18427
+Crem_Contig1462
+  start     end
+Crem_Contig1101
+  start     end
+    2561    2580
+    5999    6014
+Crem_Contig190
+  start     end
+    4955    4968
+   32687   32699
+   38838   38851
+   40765   40777
+   43604   43616
+   53506   53522
+   56644   56659
+   60881   60894
+  101650  101665
+  111478  111493
+  135252  135266
+Crem_Contig1078
+  start     end
+Crem_Contig1023
+  start     end
+    6843    6857
+    9703    9719
+   10878   10894
+Crem_Contig2885
+  start     end
+Crem_Contig3496
+  start     end
+Crem_Contig3466
+  start     end
+Crem_Contig1617
+  start     end
+Crem_Contig3330
+  start     end
+    2540    2553
+Crem_Contig1365
+  start     end
+Crem_Contig1159
+  start     end
+Crem_Contig199
+  start     end
+   18503   18518
+   24799   24810
+   41657   41669
+   43823   43837
+   46915   46926
+   47393   47407
+   91584   91597
+  132233  132251
+  140770  140780
+  140956  140974
+Crem_Contig1156
+  start     end
+   10735   10749
+Crem_Contig3622
+  start     end
+Crem_Contig201
+  start     end
+    9615    9631
+   12821   12836
+   18816   18828
+   20907   20919
+   49159   49172
+   58382   58398
+   72448   72462
+   73327   73345
+   81559   81578
+   94161   94179
+   95008   95020
+  108654  108668
+  121263  121278
+  155728  155743
+  166017  166027
+  177165  177177
+Crem_Contig4753
+  start     end
+Crem_Contig368
+  start     end
+Crem_Contig1892
+  start     end
+    5097    5114
+Crem_Contig3738
+  start     end
+Crem_Contig924
+  start     end
+Crem_Contig2269
+  start     end
+    2427    2444
+Crem_Contig2030
+  start     end
+    2358    2380
+    4675    4687
+Crem_Contig1012
+  start     end
+   11764   11777
+Crem_Contig1953
+  start     end
+Crem_Contig89
+  start     end
+   10181   10194
+   29502   29515
+   34766   34778
+   43607   43622
+   56732   56744
+   69952   69964
+   71800   71812
+   95895   95912
+  108292  108306
+  130077  130091
+  230808  230826
+  233517  233528
+Crem_Contig4872
+  start     end
+Crem_Contig1606
+  start     end
+Crem_Contig79
+  start     end
+   34105   34119
+   91065   91080
+  116091  116101
+  124973  124991
+  164049  164063
+  166448  166462
+  180647  180664
+  180692  180711
+  180787  180800
+  191295  191308
+  235655  235667
+  244149  244163
+  250619  250635
+  254901  254920
+  285194  285209
+  286999  287014
+  303079  303092
+  304308  304321
+  306688  306702
+  316385  316398
+  329920  329937
+Crem_Contig2524
+  start     end
+Crem_Contig2231
+  start     end
+Crem_Contig3734
+  start     end
+Crem_Contig1065
+  start     end
+Crem_Contig1346
+  start     end
+Crem_Contig614
+  start     end
+    2429    2443
+Crem_Contig73
+  start     end
+    1304    1323
+    1582    1598
+   19391   19402
+   21611   21625
+   40674   40690
+   80434   80445
+   84121   84135
+   95191   95212
+   96008   96025
+   96073   96097
+  100373  100390
+  106131  106146
+  109547  109558
+  116394  116410
+  140761  140778
+  180021  180039
+  182438  182453
+  188596  188611
+  188779  188796
+  218611  218626
+  223813  223828
+  244468  244479
+  293009  293025
+  300328  300341
+  307621  307636
+  378016  378027
+Crem_Contig529
+  start     end
+Crem_Contig2899
+  start     end
+     207     219
+     485     503
+     621     638
+     679     694
+    1016    1034
+    1560    1578
+    1663    1680
+    4249    4266
+    4347    4363
+    4520    4544
+    4683    4696
+    4709    4726
+Crem_Contig1035
+  start     end
+     816     830
+Crem_Contig1242
+  start     end
+    3052    3065
+Crem_Contig2868
+  start     end
+Crem_Contig88
+  start     end
+    4367    4381
+   49558   49573
+   52226   52244
+   63374   63385
+   63615   63626
+   84040   84053
+   87170   87180
+  100419  100432
+  130972  130986
+  144959  144976
+  148830  148846
+  150339  150351
+  152854  152868
+  154880  154895
+  168361  168376
+  182430  182440
+  200049  200065
+  201325  201355
+  204281  204300
+  206772  206785
+  221709  221722
+  223959  223976
+  230691  230707
+  231050  231065
+  234883  234896
+  238340  238353
+  258270  258287
+  273954  273968
+  276147  276162
+  297101  297117
+  306104  306122
+  308672  308683
+Crem_Contig1097
+  start     end
+Crem_Contig2820
+  start     end
+Crem_Contig1253
+  start     end
+Crem_Contig5
+  start     end
+   18807   18821
+   29264   29275
+   74042   74054
+   77785   77803
+   89343   89360
+   89868   89885
+   90301   90313
+   97756   97771
+  100294  100306
+  103780  103793
+  121808  121822
+  122602  122616
+  131131  131151
+  131775  131791
+  165141  165155
+  193658  193672
+  216673  216687
+  231680  231691
+  238597  238608
+  244984  245005
+  245792  245804
+  245862  245878
+  246423  246437
+  276832  276845
+  276888  276901
+  299172  299188
+  332318  332336
+  367132  367143
+  367288  367312
+  367442  367454
+  373434  373447
+  384320  384338
+  386089  386105
+  398178  398198
+  398255  398270
+  398956  398977
+  406650  406669
+  406721  406732
+  422460  422472
+  485065  485081
+  495790  495809
+  510744  510763
+  519249  519264
+  566860  566874
+  610234  610247
+  661613  661626
+  664205  664217
+  666129  666146
+  682852  682867
+  684163  684179
+  693332  693348
+  702508  702524
+  719152  719172
+  734505  734534
+  734665  734681
+  794683  794698
+  799570  799584
+  821524  821542
+  821575  821591
+  826760  826776
+  831569  831587
+  831622  831636
+  847933  847944
+  889414  889426
+  892844  892857
+  910705  910716
+  936259  936270
+  944210  944222
+  950001  950011
+  952371  952381
+  990484  990498
+  999123  999137
+ 1006640 1006654
+ 1023910 1023923
+ 1025333 1025347
+ 1025384 1025397
+ 1027199 1027218
+ 1028778 1028796
+ 1029915 1029933
+ 1033064 1033076
+ 1176219 1176232
+ 1190806 1190818
+ 1213232 1213245
+ 1214367 1214381
+ 1218440 1218454
+ 1218695 1218708
+ 1257295 1257309
+ 1258556 1258572
+ 1271798 1271815
+ 1279949 1279964
+ 1281713 1281727
+ 1297069 1297082
+ 1302625 1302642
+ 1359455 1359467
+ 1463895 1463910
+ 1465144 1465158
+ 1487961 1487973
+ 1505190 1505208
+ 1507244 1507262
+ 1542702 1542717
+ 1575834 1575848
+ 1575902 1575912
+ 1670394 1670411
+ 1746032 1746048
+ 1816807 1816820
+ 1827345 1827362
+ 1828367 1828386
+ 1829561 1829576
+ 1832805 1832821
+ 1836829 1836847
+ 1865954 1865967
+ 1883784 1883796
+ 1899676 1899692
+ 1928196 1928212
+ 2007679 2007694
+ 2029572 2029587
+ 2031397 2031413
+ 2151585 2151604
+ 2152224 2152238
+Crem_Contig609
+  start     end
+   10858   10871
+Crem_Contig1235
+  start     end
+Crem_Contig1262
+  start     end
+Crem_Contig4168
+  start     end
+Crem_Contig1924
+  start     end
+Crem_Contig2422
+  start     end
+Crem_Contig3280
+  start     end
+Crem_Contig5819
+  start     end
+Crem_Contig3044
+  start     end
+Crem_Contig1612
+  start     end
+Crem_Contig686
+  start     end
+Crem_Contig238
+  start     end
+   17539   17554
+   18428   18444
+   24818   24834
+   24885   24901
+   33046   33061
+   33113   33129
+   33886   33903
+   37053   37068
+   87663   87677
+   87822   87837
+  102432  102445
+Crem_Contig2785
+  start     end
+      61      78
+     269     280
+     660     677
+     731     747
+     891     906
+     954     967
+    2669    2683
+    2773    2787
+    2957    2974
+    3510    3525
+    3839    3865
+    4261    4279
+Crem_Contig2635
+  start     end
+Crem_Contig164
+  start     end
+   17109   17124
+   34302   34318
+   45015   45031
+   45208   45222
+   45947   45966
+   47516   47529
+   87096   87111
+   87703   87716
+   91793   91813
+   92451   92464
+   99862   99875
+  153910  153925
+  175372  175386
+  175430  175448
+  192451  192462
+  203832  203842
+  208691  208706
+  208874  208888
+  209295  209316
+  219123  219134
+Crem_Contig1581
+  start     end
+    2775    2788
+Crem_Contig1275
+  start     end
+    4059    4075
+Crem_Contig2681
+  start     end
+    3901    3917
+Crem_Contig2441
+  start     end
+    3284    3297
+Crem_Contig936
+  start     end
+    5112    5126
+    5850    5868
+    6543    6558
+Crem_Contig2753
+  start     end
+Crem_Contig1335
+  start     end
+Crem_Contig1648
+  start     end
+Crem_Contig483
+  start     end
+Crem_Contig3259
+  start     end
+Crem_Contig150
+  start     end
+   19989   20001
+   77145   77161
+   77930   77942
+   90813   90834
+  111695  111710
+  114761  114776
+  115300  115311
+  126373  126393
+  126408  126422
+  128020  128033
+  128048  128069
+  168210  168225
+  175472  175487
+Crem_Contig212
+  start     end
+   61817   61830
+   65681   65696
+   66522   66536
+   66613   66627
+   66658   66675
+   95273   95288
+  110492  110506
+  133051  133061
+  141748  141760
+  143878  143889
+  156222  156233
+Crem_Contig1287
+  start     end
+   11207   11221
+Crem_Contig1328
+  start     end
+     179     200
+Crem_Contig1163
+  start     end
+     542     559
+Crem_Contig1582
+  start     end
+Crem_Contig3618
+  start     end
+Crem_Contig1391
+  start     end
+Crem_Contig2242
+  start     end
+Crem_Contig9821
+  start     end
+     983     996
+    2102    2115
+Crem_Contig1116
+  start     end
+Crem_Contig5710
+  start     end
+Crem_Contig2978
+  start     end
+Crem_Contig1450
+  start     end
+Crem_Contig6005
+  start     end
+Crem_Contig620
+  start     end
+Crem_Contig2027
+  start     end
+Crem_Contig764
+  start     end
+    9861    9878
+Crem_Contig4950
+  start     end
+Crem_Contig912
+  start     end
+     517     531
+    7464    7483
+Crem_Contig1371
+  start     end
+    2884    2897
+    3936    3957
+    5317    5327
+Crem_Contig4705
+  start     end
+Crem_Contig3494
+  start     end
+Crem_Contig818
+  start     end
+Crem_Contig582
+  start     end
+Crem_Contig3510
+  start     end
+    3032    3051
+    3078    3096
+    3138    3153
+    3479    3496
+    3563    3580
+    3638    3654
+    3922    3938
+    4239    4256
+    4623    4642
+Crem_Contig5610
+  start     end
+Crem_Contig2659
+  start     end
+Crem_Contig344
+  start     end
+   21479   21489
+   33038   33049
+   55991   56006
+Crem_Contig1258
+  start     end
+    1595    1610
+    1660    1678
+    2422    2452
+    3435    3447
+    3521    3535
+    3585    3603
+    5075    5111
+    9466    9479
+Crem_Contig1723
+  start     end
+Crem_Contig358
+  start     end
+   24347   24359
+Crem_Contig445
+  start     end
+    8755    8772
+    8926    8938
+Crem_Contig2501
+  start     end
+Crem_Contig131
+  start     end
+    9448    9458
+   28844   28860
+   64706   64719
+   97378   97390
+  134763  134774
+  141837  141851
+  164757  164776
+Crem_Contig1896
+  start     end
+Crem_Contig84
+  start     end
+   13798   13810
+   41353   41370
+   74561   74577
+   90278   90295
+  105353  105366
+  168138  168154
+  200047  200063
+  210666  210681
+  235620  235631
+  245734  245748
+  308734  308755
+  309554  309567
+  309625  309639
+  321774  321786
+  337219  337232
+  343457  343468
+  365295  365311
+Crem_Contig2539
+  start     end
+Crem_Contig2444
+  start     end
+Crem_Contig1412
+  start     end
+Crem_Contig3207
+  start     end
+Crem_Contig380
+  start     end
+   10834   10846
+Crem_Contig3327
+  start     end
+Crem_Contig1990
+  start     end
+Crem_Contig3098
+  start     end
+     255     268
+    3860    3874
+Crem_Contig1509
+  start     end
+Crem_Contig5069
+  start     end
+Crem_Contig1427
+  start     end
+Crem_Contig1457
+  start     end
+    1907    1920
+    2513    2527
+Crem_Contig12
+  start     end
+   44278   44307
+   51114   51127
+   70592   70606
+  202045  202059
+  213503  213515
+  234289  234302
+  235254  235265
+  235491  235501
+  240907  240918
+  277229  277245
+  283022  283043
+  283568  283584
+  329721  329732
+  330024  330041
+  385467  385481
+  417825  417844
+  466676  466691
+  467303  467314
+  487561  487571
+  500224  500242
+  503548  503567
+  507028  507042
+  515976  515994
+  516026  516039
+  527926  527942
+  534319  534336
+  575970  575988
+  576972  576985
+  590650  590663
+  611875  611890
+  621650  621665
+  645817  645835
+  665977  665988
+  676949  676960
+  710097  710112
+  726544  726557
+  818609  818625
+  860186  860200
+  885302  885316
+  887322  887336
+  913162  913172
+  921584  921600
+  921933  921948
+  922427  922442
+  923273  923288
+  929176  929196
+  952115  952126
+  962002  962014
+  977563  977577
+  988833  988843
+  997356  997371
+ 1002824 1002838
+ 1002862 1002877
+ 1004684 1004699
+ 1064412 1064423
+ 1066091 1066105
+ 1102785 1102795
+ 1137205 1137219
+ 1141930 1141943
+ 1151849 1151871
+ 1154110 1154129
+ 1157189 1157203
+ 1157610 1157630
+ 1160084 1160104
+ 1200750 1200765
+ 1239949 1239968
+ 1253935 1253950
+ 1271535 1271548
+ 1339906 1339922
+ 1394807 1394821
+Crem_Contig2207
+  start     end
+Crem_Contig1378
+  start     end
+    2186    2203
+Crem_Contig671
+  start     end
+Crem_Contig3190
+  start     end
+Crem_Contig2499
+  start     end
+    5153    5168
+Crem_Contig2503
+  start     end
+Crem_Contig2122
+  start     end
+Crem_Contig834
+  start     end
+Crem_Contig2743
+  start     end
+Crem_Contig3852
+  start     end
+Crem_Contig6329
+  start     end
+Crem_Contig5588
+  start     end
+Crem_Contig5126
+  start     end
+Crem_Contig2405
+  start     end
+Crem_Contig1436
+  start     end
+Crem_Contig3443
+  start     end
+Crem_Contig42
+  start     end
+   40396   40412
+   42792   42809
+   50928   50947
+   54641   54651
+   69980   69995
+   70037   70052
+   72391   72408
+   72447   72461
+   73010   73031
+   74024   74036
+   74087   74110
+  132821  132837
+  159169  159182
+  166854  166872
+  187919  187934
+  188022  188036
+  194819  194831
+  195119  195130
+  196307  196322
+  206429  206444
+  240861  240876
+  240919  240935
+  241705  241720
+  241728  241746
+  241784  241801
+  246461  246476
+  252065  252081
+  252132  252149
+  296007  296020
+  296063  296076
+  310637  310649
+  338645  338657
+  357528  357540
+  384590  384603
+  394214  394231
+  394392  394407
+  396804  396814
+  428578  428592
+  456686  456700
+  459030  459043
+  463388  463402
+  463573  463589
+  469998  470008
+  482478  482489
+  486673  486686
+  505110  505124
+  508074  508088
+  524713  524731
+  534158  534172
+  540244  540260
+  548960  548977
+  587617  587631
+  611077  611092
+  613940  613954
+  620296  620320
+  620357  620376
+  621522  621540
+  621709  621721
+Crem_Contig253
+  start     end
+   50501   50512
+   62168   62188
+   69445   69458
+   77372   77386
+   83587   83605
+   86921   86937
+   86971   86989
+   94367   94381
+  103152  103164
+  104477  104493
+  104527  104544
+Crem_Contig1071
+  start     end
+    3869    3881
+    5412    5427
+Crem_Contig688
+  start     end
+    1315    1330
+Crem_Contig1541
+  start     end
+Crem_Contig2540
+  start     end
+    3610    3622
+Crem_Contig3446
+  start     end
+      50      63
+     146     160
+     393     412
+     526     550
+     644     661
+     815     827
+     836     855
+    1286    1299
+    2789    2805
+    2914    2934
+    3703    3715
+    3771    3787
+    3921    3936
+Crem_Contig9260
+  start     end
+Crem_Contig339
+  start     end
+   18277   18295
+Crem_Contig3676
+  start     end
+Crem_Contig4421
+  start     end
+Crem_Contig2807
+  start     end
+    1024    1035
+Crem_Contig2591
+  start     end
+Crem_Contig395
+  start     end
+Crem_Contig3132
+  start     end
+Crem_Contig371
+  start     end
+Crem_Contig908
+  start     end
+Crem_Contig1734
+  start     end
+Crem_Contig2576
+  start     end
+Crem_Contig3302
+  start     end
+Crem_Contig3154
+  start     end
+     125     143
+     299     316
+     683     703
+     866     877
+     895     908
+    3054    3074
+    3271    3287
+    3292    3311
+    3319    3336
+    3666    3677
+    3715    3739
+    4042    4055
+Crem_Contig3844
+  start     end
+      15      29
+     431     449
+    3120    3134
+    3150    3164
+    3259    3278
+    3649    3667
+    3934    3950
+    3988    4006
+Crem_Contig4910
+  start     end
+Crem_Contig1968
+  start     end
+Crem_Contig2021
+  start     end
+Crem_Contig2388
+  start     end
+Crem_Contig184
+  start     end
+   15965   15979
+   23331   23348
+   37378   37393
+   48387   48403
+   84434   84447
+   88285   88304
+  122617  122632
+  125125  125140
+  127318  127330
+  142421  142437
+  155408  155427
+Crem_Contig571
+  start     end
+Crem_Contig362
+  start     end
+    5438    5459
+Crem_Contig1940
+  start     end
+Crem_Contig2385
+  start     end
+Crem_Contig1087
+  start     end
+Crem_Contig2163
+  start     end
+Crem_Contig2220
+  start     end
+Crem_Contig96
+  start     end
+   18386   18400
+   18721   18736
+   18902   18926
+   19051   19064
+   19188   19200
+   36726   36741
+   45620   45633
+   48788   48804
+   54493   54505
+   62761   62776
+   63060   63074
+   65382   65398
+   65790   65808
+   65836   65853
+   65928   65943
+   74363   74380
+   85729   85742
+   92370   92387
+   93560   93575
+   93621   93638
+   95409   95428
+  100239  100253
+  118780  118791
+  122660  122674
+  127685  127716
+  150266  150289
+  156458  156482
+  171370  171384
+  227309  227321
+  236082  236095
+  263973  263993
+  280645  280659
+  280735  280749
+  280781  280796
+  295884  295904
+  303585  303595
+  305249  305263
+  345035  345048
+Crem_Contig1695
+  start     end
+Crem_Contig1526
+  start     end
+    6450    6463
+Crem_Contig4370
+  start     end
+     326     343
+     456     470
+     512     522
+     640     657
+     961     975
+    1118    1132
+    1269    1283
+    3255    3276
+    3352    3370
+    3893    3910
+    3913    3932
+Crem_Contig578
+  start     end
+Crem_Contig2115
+  start     end
+Crem_Contig820
+  start     end
+    6861    6875
+   11292   11308
+Crem_Contig1860
+  start     end
+Crem_Contig3069
+  start     end
+    2187    2199
+Crem_Contig168
+  start     end
+   97157   97172
+  183803  183836
+  184573  184592
+  184641  184657
+Crem_Contig3414
+  start     end
+Crem_Contig4647
+  start     end
+Crem_Contig4927
+  start     end
+    2465    2482
+Crem_Contig3365
+  start     end
+Crem_Contig548
+  start     end
+Crem_Contig526
+  start     end
+    5897    5914
+    7069    7085
+    9518    9534
+   10111   10122
+   12439   12451
+   49678   49692
+Crem_Contig3747
+  start     end
+Crem_Contig300
+  start     end
+      22      39
+    4280    4296
+    7161    7177
+   10401   10416
+   15133   15146
+   15272   15288
+   15412   15428
+   15552   15568
+   15833   15849
+   24381   24392
+   25022   25038
+   25721   25739
+   25781   25794
+   54963   54986
+   61524   61537
+   62447   62459
+Crem_Contig5210
+  start     end
+    1070    1088
+    1276    1291
+    1507    1541
+    1819    1842
+    1895    1906
+Crem_Contig1447
+  start     end
+    4448    4460
+    8827    8843
+Crem_Contig1511
+  start     end
+    3938    3951
+    7305    7321
+Crem_Contig1022
+  start     end
+Crem_Contig2261
+  start     end
+Crem_Contig2770
+  start     end
+Crem_Contig1802
+  start     end
+Crem_Contig1530
+  start     end
+Crem_Contig3171
+  start     end
+Crem_Contig3236
+  start     end
+Crem_Contig1341
+  start     end
+     835     849
+Crem_Contig784
+  start     end
+Crem_Contig2504
+  start     end
+Crem_Contig9993
+  start     end
+Crem_Contig1554
+  start     end
+Crem_Contig1755
+  start     end
+Crem_Contig3743
+  start     end
+Crem_Contig1396
+  start     end
+Crem_Contig5744
+  start     end
+    4822    4838
+Crem_Contig1083
+  start     end
+    6616    6629
+Crem_Contig932
+  start     end
+Crem_Contig5697
+  start     end
+Crem_Contig1909
+  start     end
+Crem_Contig4650
+  start     end
+Crem_Contig2002
+  start     end
+Crem_Contig9092
+  start     end
+Crem_Contig1398
+  start     end
+    3912    3926
+    4039    4056
+    6993    7006
+Crem_Contig3371
+  start     end
+     275     297
+     472     489
+    1282    1298
+    1585    1601
+    2214    2226
+    2297    2313
+    2352    2369
+    4167    4181
+    4289    4306
+    4332    4355
+    4523    4535
+    4684    4697
+    4700    4716
+Crem_Contig2685
+  start     end
+     551     564
+    1476    1490
+    2092    2108
+    3625    3642
+    4077    4092
+    4139    4151
+    4453    4487
+Crem_Contig3118
+  start     end
+Crem_Contig2598
+  start     end
+Crem_Contig1700
+  start     end
+     826     839
+Crem_Contig4582
+  start     end
+Crem_Contig2146
+  start     end
+Crem_Contig2931
+  start     end
+Crem_Contig1238
+  start     end
+   10689   10704
+Crem_Contig1017
+  start     end
+Crem_Contig1247
+  start     end
+    9485    9501
+    9627    9638
+Crem_Contig1702
+  start     end
+Crem_Contig793
+  start     end
+Crem_Contig5769
+  start     end
+     245     260
+     401     419
+    3534    3565
+    3606    3621
+Crem_Contig140
+  start     end
+   18857   18872
+   34829   34845
+   35006   35019
+   68966   68982
+   69219   69234
+  111591  111601
+  150086  150098
+Crem_Contig819
+  start     end
+Crem_Contig1726
+  start     end
+Crem_Contig4990
+  start     end
+Crem_Contig4954
+  start     end
+Crem_Contig488
+  start     end
+Crem_Contig1599
+  start     end
+     343     355
+    4861    4874
+    6631    6644
+Crem_Contig3941
+  start     end
+Crem_Contig1883
+  start     end
+Crem_Contig2288
+  start     end
+    3467    3480
+Crem_Contig4164
+  start     end
+Crem_Contig1579
+  start     end
+Crem_Contig4828
+  start     end
+Crem_Contig3755
+  start     end
+Crem_Contig2967
+  start     end
+Crem_Contig2465
+  start     end
+    1353    1364
+Crem_Contig2197
+  start     end
+     692     708
+Crem_Contig3594
+  start     end
+Crem_Contig636
+  start     end
+Crem_Contig266
+  start     end
+    2594    2611
+    7967    7984
+   20827   20839
+   51144   51156
+   66243   66260
+   66726   66738
+   66791   66807
+   67657   67671
+   83861   83876
+   97873   97884
+   98277   98292
+Crem_Contig1123
+  start     end
+Crem_Contig3228
+  start     end
+Crem_Contig8626
+  start     end
+Crem_Contig1832
+  start     end
+Crem_Contig4008
+  start     end
+Crem_Contig1672
+  start     end
+Crem_Contig586
+  start     end
+Crem_Contig3929
+  start     end
+     348     364
+     440     458
+     758     794
+    2746    2769
+    3225    3250
+    3459    3475
+    3532    3543
+    3577    3592
+    3616    3631
+Crem_Contig534
+  start     end
+    9903    9923
+Crem_Contig1710
+  start     end
+Crem_Contig1565
+  start     end
+    2964    2998
+Crem_Contig3612
+  start     end
+Crem_Contig1638
+  start     end
+Crem_Contig3925
+  start     end
+Crem_Contig3315
+  start     end
+      61      85
+    1339    1354
+    1575    1589
+Crem_Contig1904
+  start     end
+Crem_Contig376
+  start     end
+     106     118
+   14048   14066
+   14093   14110
+   14186   14199
+   18512   18529
+Crem_Contig1068
+  start     end
+    2479    2493
+    8309    8327
+Crem_Contig1808
+  start     end
+Crem_Contig1451
+  start     end
+Crem_Contig2603
+  start     end
+Crem_Contig2254
+  start     end
+Crem_Contig4085
+  start     end
+Crem_Contig3819
+  start     end
+Crem_Contig2544
+  start     end
+    2790    2808
+Crem_Contig2438
+  start     end
+    1535    1545
+Crem_Contig4841
+  start     end
+Crem_Contig2852
+  start     end
+Crem_Contig2486
+  start     end
+Crem_Contig1696
+  start     end
+     634     645
+    5516    5529
+    7166    7181
+Crem_Contig1636
+  start     end
+     592     602
+    4902    4915
+Crem_Contig946
+  start     end
+Crem_Contig992
+  start     end
+     329     342
+   12819   12834
+Crem_Contig1760
+  start     end
+Crem_Contig2118
+  start     end
+    3127    3143
+Crem_Contig1424
+  start     end
+Crem_Contig1789
+  start     end
+Crem_Contig1653
+  start     end
+Crem_Contig1193
+  start     end
+    3955    3972
+    6710    6726
+    7216    7228
+Crem_Contig4362
+  start     end
+Crem_Contig1324
+  start     end
+   34522   34533
+Crem_Contig1677
+  start     end
+Crem_Contig2773
+  start     end
+Crem_Contig1765
+  start     end
+Crem_Contig554
+  start     end
+Crem_Contig1661
+  start     end
+Crem_Contig1300
+  start     end
+Crem_Contig72
+  start     end
+     688     703
+   15750   15762
+   16473   16484
+   30404   30417
+   38447   38463
+  120042  120053
+  154035  154050
+  158780  158791
+  191910  191921
+  212539  212554
+  216326  216336
+  252508  252523
+  268211  268224
+  316033  316046
+  337406  337416
+  358682  358697
+  363911  363930
+  399246  399257
+  441285  441298
+  462739  462751
+Crem_Contig3833
+  start     end
+     380     392
+     463     477
+     507     535
+     552     571
+     798     815
+    1070    1084
+    1333    1349
+    3471    3483
+    3778    3792
+    4001    4019
+Crem_Contig6795
+  start     end
+Crem_Contig2794
+  start     end
+Crem_Contig1970
+  start     end
+Crem_Contig46
+  start     end
+    3789    3806
+    4144    4159
+    8958    8976
+   15249   15266
+   23058   23072
+   28247   28264
+   31032   31048
+   57742   57753
+   58802   58818
+   90221   90235
+   93190   93204
+  112357  112371
+  125413  125429
+  157671  157685
+  197701  197716
+  226931  226951
+  229938  229949
+  236025  236036
+  270885  270900
+  279710  279725
+  289809  289821
+  294420  294433
+  297011  297026
+  307083  307099
+  311504  311514
+  321193  321206
+  346363  346377
+  366442  366454
+  384321  384338
+  399277  399289
+  407547  407564
+  421184  421201
+  434315  434327
+  443442  443457
+  443640  443657
+  446617  446630
+  475110  475122
+  481889  481905
+  482610  482626
+  494821  494836
+  498166  498181
+  503829  503842
+  510352  510367
+  515297  515310
+  515768  515787
+  515818  515835
+  517372  517384
+  536897  536911
+  541115  541130
+  542329  542341
+  548502  548518
+  548978  548994
+  552744  552760
+  555269  555285
+  556377  556392
+  568712  568727
+  569920  569934
+  570227  570241
+  574722  574734
+  574789  574803
+Crem_Contig3405
+  start     end
+Crem_Contig423
+  start     end
+    3392    3405
+    3693    3709
+    7037    7050
+Crem_Contig2728
+  start     end
+Crem_Contig103
+  start     end
+  109719  109734
+  138565  138581
+  174970  174983
+  202576  202593
+  206131  206146
+  266214  266226
+  266278  266295
+  266628  266639
+  270732  270743
+  270796  270813
+  278793  278807
+  288566  288582
+  307657  307669
+  344243  344256
+  354408  354421
+  371473  371488
+  378066  378078
+  381775  381791
+  384107  384122
+Crem_Contig830
+  start     end
+Crem_Contig1987
+  start     end
+Crem_Contig3269
+  start     end
+Crem_Contig305
+  start     end
+     946     963
+    9084    9095
+   15487   15505
+   18867   18880
+Crem_Contig1263
+  start     end
+     827     842
+Crem_Contig659
+  start     end
+Crem_Contig2479
+  start     end
+Crem_Contig3157
+  start     end
+      54      70
+     162     178
+     261     281
+     766     782
+    1105    1116
+    1162    1174
+    3110    3120
+    3245    3256
+    3513    3524
+    3602    3619
+Crem_Contig1934
+  start     end
+Crem_Contig1182
+  start     end
+Crem_Contig4267
+  start     end
+Crem_Contig296
+  start     end
+     584     598
+    1774    1797
+   32825   32838
+   48238   48259
+Crem_Contig2052
+  start     end
+     156     171
+    2612    2627
+Crem_Contig1743
+  start     end
+     172     185
+Crem_Contig4200
+  start     end
+     865     883
+    1103    1119
+    1448    1467
+    1581    1594
+    1910    1922
+    2060    2076
+    2941    2961
+Crem_Contig334
+  start     end
+    6526    6540
+   14029   14046
+   47414   47428
+Crem_Contig4253
+  start     end
+Crem_Contig4155
+  start     end
+Crem_Contig5280
+  start     end
+Crem_Contig3283
+  start     end
+Crem_Contig6918
+  start     end
+Crem_Contig16
+  start     end
+   40413   40427
+   53180   53196
+   69964   69982
+   77575   77585
+   78314   78330
+   92740   92755
+  102790  102802
+  106896  106910
+  119593  119608
+  129143  129157
+  175062  175077
+  177520  177530
+  182411  182425
+  190237  190254
+  204369  204386
+  206858  206873
+  235123  235135
+  244751  244762
+  264867  264887
+  279988  280002
+  310585  310599
+  355197  355208
+  356571  356585
+  379493  379506
+  380522  380533
+  392457  392475
+  404707  404719
+  444434  444448
+  453393  453410
+  456110  456126
+  483108  483119
+  484844  484855
+  501004  501019
+  521337  521353
+  522313  522330
+  523802  523817
+  588142  588157
+  597756  597772
+  608972  608985
+  620159  620178
+  620234  620248
+  622083  622100
+  624596  624612
+  686280  686300
+  719272  719287
+  720088  720104
+  735284  735296
+  747185  747197
+  766662  766678
+  776667  776682
+  780203  780217
+  809566  809586
+  811388  811405
+  816062  816083
+  859371  859385
+  870316  870331
+  873479  873495
+  874274  874285
+  875885  875902
+  897830  897842
+  975705  975721
+  985828  985839
+  985868  985879
+  987260  987272
+  997217  997234
+ 1031673 1031683
+ 1086066 1086082
+ 1101778 1101789
+ 1102648 1102660
+ 1118298 1118310
+ 1148934 1148951
+ 1151068 1151087
+ 1152544 1152556
+ 1156877 1156896
+ 1160126 1160144
+ 1168799 1168814
+ 1195255 1195270
+ 1203375 1203391
+ 1210329 1210346
+ 1214191 1214204
+ 1230215 1230232
+ 1235813 1235829
+ 1283129 1283143
+ 1297529 1297541
+ 1300045 1300061
+ 1349328 1349344
+ 1359676 1359690
+ 1361975 1361989
+ 1362104 1362120
+ 1370086 1370098
+ 1370772 1370784
+ 1382926 1382939
+ 1383310 1383326
+ 1390859 1390880
+Crem_Contig3791
+  start     end
+Crem_Contig1218
+  start     end
+Crem_Contig4002
+  start     end
+Crem_Contig2140
+  start     end
+Crem_Contig661
+  start     end
+    6652    6663
+    8167    8182
+    8982    8994
+   17421   17431
+Crem_Contig1863
+  start     end
+    3660    3675
+Crem_Contig3441
+  start     end
+Crem_Contig4232
+  start     end
+Crem_Contig503
+  start     end
+    5569    5581
+   18823   18837
+Crem_Contig2026
+  start     end
+Crem_Contig3233
+  start     end
+Crem_Contig1627
+  start     end
+    5642    5657
+Crem_Contig4065
+  start     end
+Crem_Contig5946
+  start     end
+Crem_Contig1503
+  start     end
+    9666    9681
+Crem_Contig4851
+  start     end
+Crem_Contig5711
+  start     end
+Crem_Contig198
+  start     end
+   16898   16914
+   16946   16960
+   24328   24339
+   38581   38596
+  111569  111589
+Crem_Contig4867
+  start     end
+Crem_Contig2946
+  start     end
+     353     372
+     462     475
+     606     618
+    3239    3258
+    3517    3540
+    3991    4014
+Crem_Contig9886
+  start     end
+Crem_Contig1595
+  start     end
+    7327    7346
+    8096    8115
+    8951    8967
+    8995    9013
+    9089    9104
+Crem_Contig119
+  start     end
+    1352    1365
+   47669   47682
+   85819   85831
+   91029   91045
+   91896   91915
+  136333  136346
+  158441  158452
+  160679  160694
+  186889  186904
+  190064  190079
+  192482  192499
+  217952  217965
+  222519  222531
+  222763  222779
+  234746  234758
+  248675  248691
+  250848  250860
+  257401  257417
+  267963  267975
+  268545  268561
+  304035  304057
+  316389  316409
+Crem_Contig10
+  start     end
+    9003    9017
+   26438   26453
+   27022   27034
+   41654   41668
+   46370   46384
+   64977   64987
+   73825   73836
+   74179   74192
+  109992  110008
+  125294  125307
+  139425  139440
+  148087  148103
+  148148  148160
+  148895  148910
+  148921  148936
+  148974  149002
+  154032  154048
+  188447  188462
+  189314  189325
+  249338  249351
+  255422  255435
+  308339  308350
+  308668  308680
+  326338  326351
+  340330  340341
+  396950  396964
+  457153  457169
+  457451  457465
+  502166  502182
+  525708  525722
+  581295  581311
+  586577  586588
+  589341  589357
+  609175  609194
+  610288  610300
+  612519  612539
+  612615  612634
+  627942  627955
+  707638  707655
+  718613  718624
+  788162  788178
+  825581  825596
+  885526  885544
+  934632  934644
+  972074  972089
+  976820  976832
+  982334  982344
+ 1026630 1026647
+ 1032079 1032093
+ 1057149 1057165
+ 1057192 1057210
+ 1057287 1057300
+ 1077074 1077087
+ 1080250 1080266
+ 1082279 1082290
+ 1152256 1152269
+ 1204926 1204942
+ 1277241 1277253
+ 1293177 1293190
+ 1375149 1375166
+ 1376480 1376495
+ 1456914 1456927
+ 1465862 1465875
+ 1516034 1516047
+ 1526100 1526114
+ 1582398 1582411
+ 1610070 1610085
+ 1610091 1610111
+Crem_Contig345
+  start     end
+   20323   20339
+   20352   20364
+   20925   20938
+   23459   23476
+   23482   23499
+   23676   23689
+Crem_Contig3105
+  start     end
+Crem_Contig1791
+  start     end
+Crem_Contig1492
+  start     end
+Crem_Contig2007
+  start     end
+     386     404
+     533     553
+     654     668
+     707     725
+     789     807
+    2354    2371
+    2806    2820
+    3095    3119
+    3253    3270
+    3564    3579
+    4103    4147
+    4175    4195
+    5228    5247
+Crem_Contig3065
+  start     end
+Crem_Contig213
+  start     end
+   39848   39859
+   44216   44231
+  100113  100128
+  100838  100850
+  101832  101852
+  137131  137143
+Crem_Contig2092
+  start     end
+Crem_Contig324
+  start     end
+    8862    8877
+   15268   15279
+   17136   17146
+   40417   40427
+Crem_Contig1197
+  start     end
+   11131   11147
+Crem_Contig4299
+  start     end
+Crem_Contig1776
+  start     end
+Crem_Contig542
+  start     end
+    3077    3093
+    6361    6378
+Crem_Contig2559
+  start     end
+Crem_Contig1064
+  start     end
+Crem_Contig2101
+  start     end
+Crem_Contig1546
+  start     end
+Crem_Contig444
+  start     end
+    9175    9189
+   10985   10997
+   13158   13175
+Crem_Contig1890
+  start     end
+Crem_Contig2547
+  start     end
+Crem_Contig2829
+  start     end
+Crem_Contig749
+  start     end
+Crem_Contig1312
+  start     end
+Crem_Contig1054
+  start     end
+Crem_Contig629
+  start     end
+Crem_Contig862
+  start     end
+     221     232
+Crem_Contig1820
+  start     end
+Crem_Contig1884
+  start     end
+Crem_Contig124
+  start     end
+    7988    8005
+   18958   18973
+   32116   32132
+   37952   37963
+   93386   93402
+  101328  101343
+  175949  175959
+  210222  210246
+  219138  219152
+  246130  246141
+Crem_Contig2198
+  start     end
+     876     893
+Crem_Contig3148
+  start     end
+Crem_Contig462
+  start     end
+    8621    8635
+   14185   14201
+   16710   16726
+Crem_Contig1656
+  start     end
+Crem_Contig310
+  start     end
+    3944    3959
+   31794   31806
+   39731   39749
+   56564   56583
+Crem_Contig6806
+  start     end
+    2222    2235
+Crem_Contig3561
+  start     end
+Crem_Contig2074
+  start     end
+Crem_Contig1649
+  start     end
+     135     147
+    1268    1285
+    1363    1385
+    3938    3954
+    4289    4305
+    4629    4649
+    4682    4699
+    4848    4866
+    5187    5202
+    5785    5801
+    6418    6439
+    7602    7615
+    7676    7696
+    8578    8593
+    9614    9633
+   10130   10147
+   10500   10520
+Crem_Contig2959
+  start     end
+      12      28
+     473     490
+     971    1001
+    1158    1171
+    1363    1382
+    3080    3094
+    3254    3269
+    3332    3351
+    3458    3478
+    3857    3876
+    3920    3937
+    3997    4013
+Crem_Contig3770
+  start     end
+     170     184
+     323     336
+     447     471
+     534     545
+    3546    3567
+    4096    4110
+    4211    4224
+    4236    4253
+    4508    4523
+Crem_Contig935
+  start     end
+Crem_Contig9115
+  start     end
+Crem_Contig2859
+  start     end
+     175     212
+     241     258
+     362     375
+     445     458
+    1031    1045
+    1098    1115
+    3073    3090
+    3240    3260
+    3339    3353
+    3383    3417
+    3573    3586
+    3594    3615
+    3642    3674
+    3746    3767
+    3882    3895
+    4008    4025
+    4053    4066
+Crem_Contig6530
+  start     end
+Crem_Contig2507
+  start     end
+     199     214
+Crem_Contig2296
+  start     end
+Crem_Contig304
+  start     end
+   15624   15642
+   40727   40739
+Crem_Contig1798
+  start     end
+Crem_Contig1906
+  start     end
+Crem_Contig3666
+  start     end
+     530     549
+    3894    3906
+    4010    4027
+Crem_Contig2159
+  start     end
+Crem_Contig1142
+  start     end
+Crem_Contig632
+  start     end
+Crem_Contig644
+  start     end
+Crem_Contig139
+  start     end
+   62185   62201
+   92054   92067
+  118727  118745
+  138991  139008
+  146495  146511
+  147791  147807
+  156064  156080
+  157088  157101
+  157318  157334
+  168065  168080
+  168096  168109
+  169174  169189
+  183669  183686
+  207816  207830
+Crem_Contig494
+  start     end
+    6759    6773
+Crem_Contig558
+  start     end
+Crem_Contig4176
+  start     end
+Crem_Contig1070
+  start     end
+      28      44
+      57      77
+     615     635
+     751     767
+     777     795
+    1152    1167
+    1341    1357
+    1555    1573
+    1686    1699
+    1772    1787
+    1950    1961
+    2609    2623
+    2707    2724
+    3057    3075
+    3925    3935
+    5682    5698
+    6133    6152
+    7170    7183
+    7300    7316
+    7667    7679
+    8297    8310
+    8594    8609
+    8726    8741
+    8840    8853
+   10606   10619
+   10832   10843
+   11890   11905
+   12216   12228
+   12379   12390
+   12514   12525
+Crem_Contig4209
+  start     end
+      55      74
+     256     272
+     396     407
+     428     440
+     571     585
+     907     917
+    2477    2492
+    2539    2553
+    2804    2839
+    2959    2972
+    3257    3283
+    3420    3434
+    3572    3595
+Crem_Contig3333
+  start     end
+     272     284
+     354     370
+     545     560
+     589     609
+    2916    2931
+    3103    3118
+    4026    4039
+Crem_Contig3003
+  start     end
+Crem_Contig3080
+  start     end
+Crem_Contig1470
+  start     end
+Crem_Contig4968
+  start     end
+Crem_Contig3320
+  start     end
+Crem_Contig687
+  start     end
+    6469    6483
+Crem_Contig3712
+  start     end
+Crem_Contig5110
+  start     end
+Crem_Contig1570
+  start     end
+Crem_Contig469
+  start     end
+    5028    5039
+    9688    9707
+   17497   17512
+Crem_Contig2148
+  start     end
+Crem_Contig1380
+  start     end
+    2289    2304
+Crem_Contig4822
+  start     end
+      62      80
+     339     359
+Crem_Contig1998
+  start     end
+Crem_Contig2187
+  start     end
+Crem_Contig740
+  start     end
+Crem_Contig590
+  start     end
+Crem_Contig3010
+  start     end
+Crem_Contig6455
+  start     end
+Crem_Contig1780
+  start     end
+Crem_Contig3081
+  start     end
+Crem_Contig5649
+  start     end
+      70      88
+     275     289
+     428     445
+     502     518
+     913     930
+    1313    1329
+    3488    3499
+Crem_Contig185
+  start     end
+   10170   10184
+   12069   12081
+   55379   55395
+   58739   58753
+   63054   63066
+   66687   66701
+   92802   92817
+  114539  114554
+  116489  116502
+  124636  124651
+  131315  131332
+  131360  131378
+  131456  131469
+  136850  136864
+  147413  147431
+  152582  152599
+  159643  159658
+  169536  169551
+Crem_Contig2034
+  start     end
+Crem_Contig2171
+  start     end
+Crem_Contig241
+  start     end
+    6226    6243
+    6285    6301
+   16563   16578
+   22888   22904
+   35127   35140
+   44988   45001
+   70402   70414
+   85568   85584
+   85643   85664
+   88421   88436
+   88503   88518
+Crem_Contig758
+  start     end
+Crem_Contig1162
+  start     end
+Crem_Contig1103
+  start     end
+   12356   12366
+Crem_Contig2084
+  start     end
+Crem_Contig1523
+  start     end
+    1958    1977
+    2019    2035
+Crem_Contig1846
+  start     end
+Crem_Contig204
+  start     end
+    4779    4793
+    5410    5425
+    5544    5560
+    5884    5895
+   39762   39776
+   47296   47308
+   62855   62867
+   74282   74294
+   82658   82673
+  106229  106243
+  136858  136868
+  145678  145692
+  147765  147777
+  152580  152596
+  156135  156152
+Crem_Contig921
+  start     end
+   11841   11857
+Crem_Contig1429
+  start     end
+Crem_Contig1614
+  start     end
+Crem_Contig2339
+  start     end
+Crem_Contig1763
+  start     end
+Crem_Contig1959
+  start     end
+Crem_Contig1983
+  start     end
+    5229    5245
+Crem_Contig2500
+  start     end
+     574     590
+    2028    2049
+    2277    2294
+Crem_Contig1456
+  start     end
+Crem_Contig1668
+  start     end
+    3167    3183
+Crem_Contig847
+  start     end
+Crem_Contig6754
+  start     end
+     461     472
+Crem_Contig2790
+  start     end
+Crem_Contig985
+  start     end
+     138     149
+    2631    2641
+Crem_Contig1604
+  start     end
+Crem_Contig3463
+  start     end
+Crem_Contig835
+  start     end
+Crem_Contig3442
+  start     end
+Crem_Contig1327
+  start     end
+Crem_Contig63
+  start     end
+   29412   29425
+   42199   42213
+   73909   73923
+   80244   80261
+   87868   87884
+   90713   90732
+  104693  104710
+  111471  111485
+  118607  118624
+  129100  129111
+  174645  174657
+  213269  213284
+  254205  254217
+  254223  254237
+  310120  310135
+  316516  316527
+  317798  317811
+  320692  320705
+  388014  388028
+Crem_Contig1772
+  start     end
+    1694    1710
+Crem_Contig231
+  start     end
+   72264   72275
+   74036   74048
+Crem_Contig1620
+  start     end
+Crem_Contig6528
+  start     end
+Crem_Contig2837
+  start     end
+Crem_Contig2498
+  start     end
+Crem_Contig7265
+  start     end
+Crem_Contig1413
+  start     end
+Crem_Contig1925
+  start     end
+    2939    2950
+Crem_Contig882
+  start     end
+Crem_Contig5191
+  start     end
+Crem_Contig876
+  start     end
+Crem_Contig2543
+  start     end
+Crem_Contig745
+  start     end
+Crem_Contig1390
+  start     end
+    8065    8079
+    8147    8162
+Crem_Contig416
+  start     end
+    2699    2713
+    6190    6209
+   10490   10511
+   11092   11114
+   11424   11444
+Crem_Contig308
+  start     end
+    3370    3389
+    6989    7009
+   13038   13058
+Crem_Contig1489
+  start     end
+     438     454
+Crem_Contig2195
+  start     end
+Crem_Contig2701
+  start     end
+Crem_Contig2630
+  start     end
+Crem_Contig1233
+  start     end
+    4029    4049
+Crem_Contig2332
+  start     end
+    1355    1370
+Crem_Contig1851
+  start     end
+    2384    2399
+Crem_Contig14
+  start     end
+   13922   13938
+   15369   15383
+   15432   15444
+   28470   28484
+   36561   36575
+   86556   86572
+  111913  111927
+  123896  123914
+  126444  126454
+  229523  229539
+  230549  230563
+  264795  264809
+  344912  344925
+  369366  369378
+  376977  376995
+  413984  413999
+  417713  417727
+  421928  421942
+  485145  485160
+  485630  485644
+  515589  515604
+  523952  523967
+  606638  606654
+  643629  643645
+  666695  666710
+  674290  674304
+  675899  675912
+  714307  714326
+  751415  751427
+  752858  752869
+  753440  753454
+  755033  755044
+  772086  772100
+  777346  777361
+  777412  777430
+  797405  797419
+  824189  824202
+  857710  857724
+  858658  858668
+  911391  911406
+  915181  915194
+  931810  931824
+  952305  952316
+  953120  953135
+  953849  953863
+  960113  960125
+  960225  960236
+  967046  967060
+  980143  980160
+  991810  991824
+  995122  995137
+  995353  995371
+ 1050572 1050589
+ 1073153 1073169
+ 1137507 1137525
+ 1137715 1137726
+ 1138445 1138456
+ 1139669 1139684
+ 1142362 1142372
+ 1155186 1155199
+ 1213423 1213436
+ 1222749 1222762
+ 1224733 1224746
+ 1235894 1235909
+ 1249540 1249556
+ 1251026 1251038
+ 1255733 1255744
+ 1293645 1293658
+ 1293911 1293922
+ 1294165 1294176
+ 1376437 1376448
+ 1425110 1425126
+ 1428800 1428816
+ 1429325 1429342
+ 1429757 1429769
+ 1433880 1433893
+ 1438168 1438184
+ 1438388 1438402
+ 1450833 1450845
+ 1484375 1484396
+ 1487962 1487977
+ 1545619 1545636
+ 1558449 1558465
+ 1570105 1570124
+ 1570235 1570252
+ 1588732 1588744
+ 1592775 1592787
+Crem_Contig4583
+  start     end
+Crem_Contig2237
+  start     end
+Crem_Contig3305
+  start     end
+Crem_Contig2666
+  start     end
+Crem_Contig1278
+  start     end
+Crem_Contig3480
+  start     end
+Crem_Contig1840
+  start     end
+Crem_Contig831
+  start     end
+Crem_Contig4083
+  start     end
+Crem_Contig1352
+  start     end
+    5012    5026
+Crem_Contig2056
+  start     end
+Crem_Contig2289
+  start     end
+Crem_Contig1271
+  start     end
+Crem_Contig3445
+  start     end
+     182     194
+     345     363
+    3077    3094
+    3155    3172
+    3335    3353
+    3555    3567
+Crem_Contig723
+  start     end
+Crem_Contig2587
+  start     end
+    1585    1600
+Crem_Contig1171
+  start     end
+Crem_Contig2130
+  start     end
+Crem_Contig964
+  start     end
+    1417    1432
+Crem_Contig2905
+  start     end
+    1887    1904
+Crem_Contig3871
+  start     end
+Crem_Contig1948
+  start     end
+Crem_Contig585
+  start     end
+Crem_Contig4241
+  start     end
+     110     140
+     461     476
+     512     533
+     660     677
+     915     930
+    1342    1356
+    1540    1555
+    1641    1657
+Crem_Contig1641
+  start     end
+Crem_Contig491
+  start     end
+    4053    4067
+    4859    4874
+Crem_Contig915
+  start     end
+Crem_Contig5124
+  start     end
+Crem_Contig1849
+  start     end
+Crem_Contig225
+  start     end
+   54197   54211
+   56591   56602
+   57436   57452
+   57567   57579
+   61769   61785
+   65008   65025
+  100015  100029
+  108829  108842
+Crem_Contig1833
+  start     end
+Crem_Contig288
+  start     end
+    1091    1105
+   44175   44191
+   67552   67566
+Crem_Contig1803
+  start     end
+Crem_Contig1448
+  start     end
+Crem_Contig5044
+  start     end
+Crem_Contig2097
+  start     end
+Crem_Contig2542
+  start     end
+Crem_Contig1665
+  start     end
+Crem_Contig3662
+  start     end
+       3      19
+     233     248
+     771     785
+    1845    1863
+    1932    1950
+Crem_Contig333
+  start     end
+   11582   11596
+   11663   11679
+   11709   11725
+   26986   27003
+   40877   40895
+Crem_Contig3354
+  start     end
+Crem_Contig1652
+  start     end
+Crem_Contig8434
+  start     end
+Crem_Contig1058
+  start     end
+Crem_Contig4100
+  start     end
+Crem_Contig2771
+  start     end
+Crem_Contig2715
+  start     end
+Crem_Contig1178
+  start     end
+Crem_Contig1203
+  start     end
+Crem_Contig2937
+  start     end
+Crem_Contig1553
+  start     end
+Crem_Contig1479
+  start     end
+Crem_Contig5987
+  start     end
+Crem_Contig1524
+  start     end
+     997    1012
+    5568    5580
+    8297    8314
+Crem_Contig2928
+  start     end
+Crem_Contig2354
+  start     end
+Crem_Contig2228
+  start     end
+Crem_Contig707
+  start     end
+Crem_Contig926
+  start     end
+Crem_Contig2392
+  start     end
+    1008    1019
+Crem_Contig1395
+  start     end
+Crem_Contig1397
+  start     end
+Crem_Contig2204
+  start     end
+Crem_Contig115
+  start     end
+   97108   97123
+  167344  167358
+  284031  284049
+Crem_Contig1432
+  start     end
+Crem_Contig2152
+  start     end
+Crem_Contig2474
+  start     end
+    3019    3034
+Crem_Contig2003
+  start     end
+Crem_Contig1830
+  start     end
+Crem_Contig1018
+  start     end
+Crem_Contig553
+  start     end
+Crem_Contig1965
+  start     end
+Crem_Contig1379
+  start     end
+Crem_Contig1237
+  start     end
+Crem_Contig3034
+  start     end
+Crem_Contig550
+  start     end
+Crem_Contig890
+  start     end
+     663     678
+    1086    1103
+    1239    1254
+    1607    1623
+    1890    1903
+    3062    3081
+    3327    3341
+    3405    3418
+    3786    3800
+    3889    3910
+    4096    4114
+    6066    6080
+    7000    7012
+   10735   10748
+   10964   10980
+   11521   11535
+   11827   11846
+   11891   11903
+Crem_Contig3427
+  start     end
+Crem_Contig2795
+  start     end
+Crem_Contig7136
+  start     end
+Crem_Contig628
+  start     end
+Crem_Contig2923
+  start     end
+Crem_Contig3586
+  start     end
+Crem_Contig2068
+  start     end
+Crem_Contig2225
+  start     end
+Crem_Contig1400
+  start     end
+Crem_Contig967
+  start     end
+    4095    4108
+    4271    4285
+Crem_Contig2956
+  start     end
+Crem_Contig4268
+  start     end
+Crem_Contig2104
+  start     end
+Crem_Contig2413
+  start     end
+Crem_Contig2618
+  start     end
+Crem_Contig1739
+  start     end
+Crem_Contig2409
+  start     end
+Crem_Contig2808
+  start     end
+    3269    3280
+    3900    3911
+Crem_Contig5374
+  start     end
+     117     130
+     677     688
+    1008    1018
+    1706    1740
+Crem_Contig755
+  start     end
+Crem_Contig1676
+  start     end
+   10180   10193
+Crem_Contig1549
+  start     end
+Crem_Contig1945
+  start     end
+    2572    2587
+Crem_Contig3282
+  start     end
+Crem_Contig720
+  start     end
+    7974    7987
+    8911    8923
+   10546   10563
+   13764   13777
+Crem_Contig1994
+  start     end
+    3985    4002
+Crem_Contig1590
+  start     end
+    7595    7606
+Crem_Contig2137
+  start     end
+    1840    1853
+    2503    2518
+Crem_Contig2160
+  start     end
+Crem_Contig1933
+  start     end
+Crem_Contig1285
+  start     end
+      21      37
+Crem_Contig1226
+  start     end
+    1536    1550
+Crem_Contig4709
+  start     end
+Crem_Contig3856
+  start     end
+     414     429
+     592     607
+     645     681
+    3509    3521
+    3736    3762
+    3868    3884
+Crem_Contig3995
+  start     end
+Crem_Contig5312
+  start     end
+Crem_Contig1194
+  start     end
+    4150    4168
+Crem_Contig1559
+  start     end
+Crem_Contig1416
+  start     end
+    6792    6807
+Crem_Contig5820
+  start     end
+Crem_Contig991
+  start     end
+Crem_Contig3420
+  start     end
+Crem_Contig648
+  start     end
+Crem_Contig1135
+  start     end
+Crem_Contig3086
+  start     end
+Crem_Contig2210
+  start     end
+Crem_Contig1568
+  start     end
+    2713    2729
+Crem_Contig1323
+  start     end
+Crem_Contig422
+  start     end
+Crem_Contig7112
+  start     end
+Crem_Contig3240
+  start     end
+Crem_Contig4227
+  start     end
+Crem_Contig383
+  start     end
+    2536    2547
+   62113   62127
+   62688   62701
+   71991   72003
+   85738   85748
+Crem_Contig797
+  start     end
+Crem_Contig1305
+  start     end
+Crem_Contig8923
+  start     end
+     361     376
+Crem_Contig945
+  start     end
+Crem_Contig2891
+  start     end
+     277     292
+     323     337
+    1099    1118
+    2849    2864
+    3242    3264
+    3385    3396
+    4547    4567
+    4813    4826
+Crem_Contig1096
+  start     end
+Crem_Contig2495
+  start     end
+Crem_Contig3052
+  start     end
+    3513    3528
+    3644    3655
+Crem_Contig2528
+  start     end
+     876     891
+     990    1008
+    1072    1098
+    1191    1203
+    1409    1422
+    3124    3141
+    3324    3335
+    3482    3497
+    3836    3851
+    4044    4059
+    4160    4170
+    4410    4425
+    4653    4671
+Crem_Contig2365
+  start     end
+     149     162
+     263     274
+     314     327
+     335     347
+     383     402
+     512     534
+    1568    1581
+    1802    1826
+    1863    1880
+    1916    1934
+    1973    1983
+    3068    3084
+    3242    3260
+    3388    3405
+    3933    3956
+    4242    4261
+    4663    4693
+    4835    4852
+    4902    4919
+Crem_Contig4944
+  start     end
+Crem_Contig1067
+  start     end
+   13165   13180
